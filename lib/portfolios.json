@@ -1,0 +1,3034 @@
+[
+  {
+    "id": "ej1",
+    "name": "portafolio-mauricio-medina.vercel.app",
+    "url": "https://portafolio-mauricio-medina.vercel.app/",
+    "style": "dark acentos",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: dark acentos. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.425,
+      "Creativos": 0.2624,
+      "Empresa": 0.1181,
+      "Otros": 0.1945
+    },
+    "category_confidence": 0.0728
+  },
+  {
+    "id": "ej2",
+    "name": "juanseaguirre.com",
+    "url": "https://juanseaguirre.com",
+    "style": "minimal dark",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: minimal dark. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4056,
+      "Creativos": 0.259,
+      "Empresa": 0.1208,
+      "Otros": 0.2146
+    },
+    "category_confidence": 0.0612
+  },
+  {
+    "id": "ej3",
+    "name": "agustinjz.dev",
+    "url": "https://www.agustinjz.dev/",
+    "style": "tipo Syne",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: tipo Syne. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4333,
+      "Creativos": 0.2337,
+      "Empresa": 0.1142,
+      "Otros": 0.2188
+    },
+    "category_confidence": 0.075
+  },
+  {
+    "id": "ej4",
+    "name": "zuricata.dev",
+    "url": "https://zuricata.dev/",
+    "style": "terminal mono",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: terminal mono. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4223,
+      "Creativos": 0.2119,
+      "Empresa": 0.1491,
+      "Otros": 0.2166
+    },
+    "category_confidence": 0.0565
+  },
+  {
+    "id": "ej5",
+    "name": "adrianvrj.com",
+    "url": "https://adrianvrj.com",
+    "style": "case-study tech",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: case-study tech. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3374,
+      "Creativos": 0.2606,
+      "Empresa": 0.2092,
+      "Otros": 0.1928
+    },
+    "category_confidence": 0.0178
+  },
+  {
+    "id": "ej6",
+    "name": "pedronavajas.com",
+    "url": "https://pedronavajas.com",
+    "style": "editorial dark",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: editorial dark. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3581,
+      "Creativos": 0.2763,
+      "Empresa": 0.1721,
+      "Otros": 0.1935
+    },
+    "category_confidence": 0.0306
+  },
+  {
+    "id": "ej7",
+    "name": "agustingarate.com",
+    "url": "https://agustingarate.com/",
+    "style": "cream motion",
+    "source": "Ejemplos",
+    "notes": "Fuente: usuario",
+    "context": "Estilo: cream motion. Fuente: usuario.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3783,
+      "Creativos": 0.2887,
+      "Empresa": 0.1264,
+      "Otros": 0.2066
+    },
+    "category_confidence": 0.0524
+  },
+  {
+    "id": "ej8",
+    "name": "brittanychiang.com",
+    "url": "https://brittanychiang.com/",
+    "style": "minimal dark",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: minimal dark. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3853,
+      "Creativos": 0.2818,
+      "Empresa": 0.1081,
+      "Otros": 0.2248
+    },
+    "category_confidence": 0.062
+  },
+  {
+    "id": "ej9",
+    "name": "henryheffernan.com",
+    "url": "https://henryheffernan.com/",
+    "style": "3D/WebGL",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: 3D/WebGL. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4307,
+      "Creativos": 0.231,
+      "Empresa": 0.121,
+      "Otros": 0.2173
+    },
+    "category_confidence": 0.0705
+  },
+  {
+    "id": "ej10",
+    "name": "bruno-simon.com",
+    "url": "https://bruno-simon.com/",
+    "style": "3D/WebGL",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: 3D/WebGL. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4244,
+      "Creativos": 0.2386,
+      "Empresa": 0.1258,
+      "Otros": 0.2112
+    },
+    "category_confidence": 0.0659
+  },
+  {
+    "id": "ej11",
+    "name": "rauno.me",
+    "url": "https://rauno.me/",
+    "style": "tipo bold",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: tipo bold. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.34,
+      "Creativos": 0.2847,
+      "Empresa": 0.1282,
+      "Otros": 0.2471
+    },
+    "category_confidence": 0.0383
+  },
+  {
+    "id": "ej12",
+    "name": "joshwcomeau.com",
+    "url": "https://www.joshwcomeau.com/",
+    "style": "colorido interactivo",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: colorido interactivo. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3875,
+      "Creativos": 0.2882,
+      "Empresa": 0.1181,
+      "Otros": 0.2062
+    },
+    "category_confidence": 0.0595
+  },
+  {
+    "id": "ej13",
+    "name": "leerob.io",
+    "url": "https://leerob.io/",
+    "style": "minimal clean",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: minimal clean. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4217,
+      "Creativos": 0.2191,
+      "Empresa": 0.1231,
+      "Otros": 0.2361
+    },
+    "category_confidence": 0.0655
+  },
+  {
+    "id": "ej14",
+    "name": "taniarascia.com",
+    "url": "https://www.taniarascia.com/",
+    "style": "editorial clean",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: editorial clean. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3444,
+      "Creativos": 0.2645,
+      "Empresa": 0.1687,
+      "Otros": 0.2224
+    },
+    "category_confidence": 0.0237
+  },
+  {
+    "id": "ej15",
+    "name": "ped.ro",
+    "url": "https://ped.ro/",
+    "style": "tipografía essay",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: tipografía essay. Fuente: extra.",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.2863,
+      "Creativos": 0.2877,
+      "Empresa": 0.2125,
+      "Otros": 0.2134
+    },
+    "category_confidence": 0.0079
+  },
+  {
+    "id": "ej16",
+    "name": "jahir.dev",
+    "url": "https://jahir.dev/",
+    "style": "clean light",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: clean light. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3695,
+      "Creativos": 0.2571,
+      "Empresa": 0.1178,
+      "Otros": 0.2556
+    },
+    "category_confidence": 0.0495
+  },
+  {
+    "id": "ej17",
+    "name": "itskev.app",
+    "url": "https://itskev.app/",
+    "style": "dark amarillo",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: dark amarillo. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3588,
+      "Creativos": 0.283,
+      "Empresa": 0.1296,
+      "Otros": 0.2286
+    },
+    "category_confidence": 0.0426
+  },
+  {
+    "id": "ej18",
+    "name": "pablodols.com",
+    "url": "https://pablodols.com/",
+    "style": "tipo bold",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: tipo bold. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3555,
+      "Creativos": 0.2692,
+      "Empresa": 0.1227,
+      "Otros": 0.2526
+    },
+    "category_confidence": 0.0436
+  },
+  {
+    "id": "ej19",
+    "name": "lucasaguilera.com.ar",
+    "url": "https://lucasaguilera.com.ar/",
+    "style": "clean corporate",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: clean corporate. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3443,
+      "Creativos": 0.2593,
+      "Empresa": 0.1845,
+      "Otros": 0.2119
+    },
+    "category_confidence": 0.0206
+  },
+  {
+    "id": "ej20",
+    "name": "joseas.dev",
+    "url": "https://joseas.dev/",
+    "style": "dark corporate",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: dark corporate. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4264,
+      "Creativos": 0.2447,
+      "Empresa": 0.1261,
+      "Otros": 0.2028
+    },
+    "category_confidence": 0.0676
+  },
+  {
+    "id": "ej21",
+    "name": "sanruiz.co",
+    "url": "https://sanruiz.co/",
+    "style": "clean corporate",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: clean corporate. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3204,
+      "Creativos": 0.2485,
+      "Empresa": 0.1763,
+      "Otros": 0.2547
+    },
+    "category_confidence": 0.0153
+  },
+  {
+    "id": "ej22",
+    "name": "delba.dev",
+    "url": "https://delba.dev/",
+    "style": "minimal content",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: minimal content. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.364,
+      "Creativos": 0.2742,
+      "Empresa": 0.1426,
+      "Otros": 0.2193
+    },
+    "category_confidence": 0.0384
+  },
+  {
+    "id": "ej23",
+    "name": "jhey.dev",
+    "url": "https://jhey.dev/",
+    "style": "playful UI",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: playful UI. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4051,
+      "Creativos": 0.2913,
+      "Empresa": 0.104,
+      "Otros": 0.1996
+    },
+    "category_confidence": 0.075
+  },
+  {
+    "id": "ej24",
+    "name": "ryo.lu",
+    "url": "https://ryo.lu/",
+    "style": "OS experimental",
+    "source": "Ejemplos",
+    "notes": "Fuente: extra",
+    "context": "Estilo: OS experimental. Fuente: extra.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8527,
+      "Creativos": 0.1212,
+      "Empresa": 0.0101,
+      "Otros": 0.0159
+    },
+    "category_confidence": 0.6363
+  },
+  {
+    "id": "jhey1",
+    "name": "jhey.dev",
+    "url": "https://www.jhey.dev/",
+    "style": "dark demos CSS",
+    "source": "Estilo jhey",
+    "notes": "Referencia: UI demos, oscuro, mucho contenido con personalidad",
+    "context": "Estilo dark demos CSS. Referencia: UI demos, oscuro, mucho contenido con personalidad",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3855,
+      "Creativos": 0.2717,
+      "Empresa": 0.1216,
+      "Otros": 0.2212
+    },
+    "category_confidence": 0.054
+  },
+  {
+    "id": "jhey2",
+    "name": "nerdy.dev",
+    "url": "https://nerdy.dev/",
+    "style": "dark CSS notes",
+    "source": "Estilo jhey",
+    "notes": "Design engineer CSS (Adam Argyle); mismo nicho que Jhey",
+    "context": "Estilo dark CSS notes. Design engineer CSS (Adam Argyle); mismo nicho que Jhey",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4228,
+      "Creativos": 0.2489,
+      "Empresa": 0.0995,
+      "Otros": 0.2287
+    },
+    "category_confidence": 0.0787
+  },
+  {
+    "id": "jhey3",
+    "name": "cassie.codes",
+    "url": "https://cassie.codes/",
+    "style": "SVG playful dark",
+    "source": "Estilo jhey",
+    "notes": "Creativa, demos SVG/CSS, tono personal y claro",
+    "context": "Estilo SVG playful dark. Creativa, demos SVG/CSS, tono personal y claro",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7767,
+      "Creativos": 0.1706,
+      "Empresa": 0.0205,
+      "Otros": 0.0322
+    },
+    "category_confidence": 0.5035
+  },
+  {
+    "id": "jhey4",
+    "name": "lynnandtonic.com",
+    "url": "https://lynnandtonic.com/",
+    "style": "creativo anual",
+    "source": "Estilo jhey",
+    "notes": "Simple de leer, rediseño creativo cada año, mucha personalidad",
+    "context": "Estilo creativo anual. Simple de leer, rediseño creativo cada año, mucha personalidad",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3951,
+      "Creativos": 0.2645,
+      "Empresa": 0.143,
+      "Otros": 0.1974
+    },
+    "category_confidence": 0.0499
+  },
+  {
+    "id": "jhey5",
+    "name": "emilkowal.ski",
+    "url": "https://www.emilkowal.ski/",
+    "style": "dark motion craft",
+    "source": "Estilo jhey",
+    "notes": "Oscuro, limpio, microinteracciones de design engineer",
+    "context": "Estilo dark motion craft. Oscuro, limpio, microinteracciones de design engineer",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3762,
+      "Creativos": 0.2773,
+      "Empresa": 0.1398,
+      "Otros": 0.2067
+    },
+    "category_confidence": 0.0447
+  },
+  {
+    "id": "jhey6",
+    "name": "blog.maximeheckel.com",
+    "url": "https://blog.maximeheckel.com/",
+    "style": "dark shaders",
+    "source": "Estilo jhey",
+    "notes": "Oscuro, artículos + demos técnicas, vibe design eng",
+    "context": "Estilo dark shaders. Oscuro, artículos + demos técnicas, vibe design eng",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3883,
+      "Creativos": 0.274,
+      "Empresa": 0.1205,
+      "Otros": 0.2172
+    },
+    "category_confidence": 0.056
+  },
+  {
+    "id": "jhey7",
+    "name": "hakim.se",
+    "url": "https://hakim.se/",
+    "style": "demos interactivas",
+    "source": "Estilo jhey",
+    "notes": "Portafolio corto con demos web potentes, fondo oscuro",
+    "context": "Estilo demos interactivas. Portafolio corto con demos web potentes, fondo oscuro",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3816,
+      "Creativos": 0.293,
+      "Empresa": 0.1317,
+      "Otros": 0.1937
+    },
+    "category_confidence": 0.0534
+  },
+  {
+    "id": "jhey8",
+    "name": "whitep4nth3r.com",
+    "url": "https://whitep4nth3r.com/",
+    "style": "dark community",
+    "source": "Estilo jhey",
+    "notes": "Oscuro, simple, voz fuerte + proyectos/educación",
+    "context": "Estilo dark community. Oscuro, simple, voz fuerte + proyectos/educación",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3224,
+      "Creativos": 0.2902,
+      "Empresa": 0.1722,
+      "Otros": 0.2152
+    },
+    "category_confidence": 0.0208
+  },
+  {
+    "id": "jhey9",
+    "name": "stefanjudis.com",
+    "url": "https://stefanjudis.com/",
+    "style": "dark frontend blog",
+    "source": "Estilo jhey",
+    "notes": "Oscuro/contenido: tips CSS/JS como Jhey enseña",
+    "context": "Estilo dark frontend blog. Oscuro/contenido: tips CSS/JS como Jhey enseña",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4408,
+      "Creativos": 0.2324,
+      "Empresa": 0.1343,
+      "Otros": 0.1925
+    },
+    "category_confidence": 0.0716
+  },
+  {
+    "id": "jhey10",
+    "name": "una.im",
+    "url": "https://una.im/",
+    "style": "CSS color craft",
+    "source": "Estilo jhey",
+    "notes": "Design engineer CSS (Una); demos y writing",
+    "context": "Estilo CSS color craft. Design engineer CSS (Una); demos y writing",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6771,
+      "Creativos": 0.2097,
+      "Empresa": 0.0292,
+      "Otros": 0.084
+    },
+    "category_confidence": 0.3487
+  },
+  {
+    "id": "jhey11",
+    "name": "paco.me",
+    "url": "https://paco.me/",
+    "style": "minimal dark design",
+    "source": "Estilo jhey",
+    "notes": "Oscuro minimal con mucho gusto tipográfico",
+    "context": "Estilo minimal dark design. Oscuro minimal con mucho gusto tipográfico",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4054,
+      "Creativos": 0.2442,
+      "Empresa": 0.1229,
+      "Otros": 0.2275
+    },
+    "category_confidence": 0.0588
+  },
+  {
+    "id": "jhey12",
+    "name": "sammii.dev",
+    "url": "https://sammii.dev/",
+    "style": "dark experiments",
+    "source": "Estilo jhey",
+    "notes": "Design engineer: labs, demos motion, estética luminous dark",
+    "context": "Estilo dark experiments. Design engineer: labs, demos motion, estética luminous dark",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.404,
+      "Creativos": 0.2733,
+      "Empresa": 0.1115,
+      "Otros": 0.2113
+    },
+    "category_confidence": 0.0668
+  },
+  {
+    "id": "jhey13",
+    "name": "lab.moumen.dev",
+    "url": "https://lab.moumen.dev/",
+    "style": "lab componentes",
+    "source": "Estilo jhey",
+    "notes": "Lab de componentes para design engineers; dark craft",
+    "context": "Estilo lab componentes. Lab de componentes para design engineers; dark craft",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4107,
+      "Creativos": 0.2308,
+      "Empresa": 0.1472,
+      "Otros": 0.2113
+    },
+    "category_confidence": 0.0519
+  },
+  {
+    "id": "jhey14",
+    "name": "manthaa.dev",
+    "url": "https://manthaa.dev/",
+    "style": "dark design eng",
+    "source": "Estilo jhey",
+    "notes": "Frontend design engineer, dark, foco en feel de UI",
+    "context": "Estilo dark design eng. Frontend design engineer, dark, foco en feel de UI",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3846,
+      "Creativos": 0.2643,
+      "Empresa": 0.1208,
+      "Otros": 0.2303
+    },
+    "category_confidence": 0.0531
+  },
+  {
+    "id": "jhey15",
+    "name": "ishadeed.com",
+    "url": "https://ishadeed.com/",
+    "style": "CSS deep dark",
+    "source": "Estilo jhey",
+    "notes": "Tutoriales CSS profundos, layout limpio y oscuro",
+    "context": "Estilo CSS deep dark. Tutoriales CSS profundos, layout limpio y oscuro",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4605,
+      "Creativos": 0.3919,
+      "Empresa": 0.0263,
+      "Otros": 0.1213
+    },
+    "category_confidence": 0.224
+  },
+  {
+    "id": "jhey16",
+    "name": "moderncss.dev",
+    "url": "https://moderncss.dev/",
+    "style": "CSS recipes",
+    "source": "Estilo jhey",
+    "notes": "Recetas CSS modernas (Stephanie Eckles); simple y útil",
+    "context": "Estilo CSS recipes. Recetas CSS modernas (Stephanie Eckles); simple y útil",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6407,
+      "Creativos": 0.2305,
+      "Empresa": 0.0309,
+      "Otros": 0.0979
+    },
+    "category_confidence": 0.3086
+  },
+  {
+    "id": "jhey17",
+    "name": "georgefrancis.dev",
+    "url": "https://www.georgefrancis.dev/",
+    "style": "CSS generative",
+    "source": "Estilo jhey",
+    "notes": "Arte generativo con CSS; creativo como demos de Jhey",
+    "context": "Estilo CSS generative. Arte generativo con CSS; creativo como demos de Jhey",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4049,
+      "Creativos": 0.2505,
+      "Empresa": 0.124,
+      "Otros": 0.2207
+    },
+    "category_confidence": 0.0586
+  },
+  {
+    "id": "jhey18",
+    "name": "joshcollinsworth.com",
+    "url": "https://www.joshcollinsworth.com/",
+    "style": "dark opinionado",
+    "source": "Estilo jhey",
+    "notes": "Oscuro, tipografía fuerte, writing de frontend",
+    "context": "Estilo dark opinionado. Oscuro, tipografía fuerte, writing de frontend",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4068,
+      "Creativos": 0.2564,
+      "Empresa": 0.1498,
+      "Otros": 0.187
+    },
+    "category_confidence": 0.0531
+  },
+  {
+    "id": "jhey19",
+    "name": "adamhartwig.co.uk",
+    "url": "https://adamhartwig.co.uk/",
+    "style": "playful color",
+    "source": "Estilo jhey",
+    "notes": "Personalidad alta, animaciones divertidas (más color)",
+    "context": "Estilo playful color. Personalidad alta, animaciones divertidas (más color)",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.3575,
+      "Creativos": 0.5551,
+      "Empresa": 0.0444,
+      "Otros": 0.043
+    },
+    "category_confidence": 0.3017
+  },
+  {
+    "id": "jhey20",
+    "name": "tamalsen.dev",
+    "url": "https://tamalsen.dev/",
+    "style": "dark IDE vibe",
+    "source": "Estilo jhey",
+    "notes": "Dark tipo IDE, limpio, vibe developer",
+    "context": "Estilo dark IDE vibe. Dark tipo IDE, limpio, vibe developer",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4083,
+      "Creativos": 0.2307,
+      "Empresa": 0.1265,
+      "Otros": 0.2345
+    },
+    "category_confidence": 0.0581
+  },
+  {
+    "id": "jhey21",
+    "name": "brianlovin.com",
+    "url": "https://brianlovin.com/",
+    "style": "dark clean",
+    "source": "Estilo jhey",
+    "notes": "Oscuro limpio product/design, mucho contenido",
+    "context": "Estilo dark clean. Oscuro limpio product/design, mucho contenido",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3565,
+      "Creativos": 0.2718,
+      "Empresa": 0.1688,
+      "Otros": 0.2029
+    },
+    "category_confidence": 0.0293
+  },
+  {
+    "id": "jhey22",
+    "name": "ryanmulligan.dev",
+    "url": "https://www.ryanmulligan.dev/",
+    "style": "CSS craft",
+    "source": "Estilo jhey",
+    "notes": "Craft CSS/UI, demos y writing",
+    "context": "Estilo CSS craft. Craft CSS/UI, demos y writing",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8347,
+      "Creativos": 0.1005,
+      "Empresa": 0.0152,
+      "Otros": 0.0496
+    },
+    "category_confidence": 0.5711
+  },
+  {
+    "id": "jhey23",
+    "name": "joebell.co.uk",
+    "url": "https://joebell.co.uk/",
+    "style": "dark UI craft",
+    "source": "Estilo jhey",
+    "notes": "Design engineer UK; dark, componentes y craft",
+    "context": "Estilo dark UI craft. Design engineer UK; dark, componentes y craft",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6084,
+      "Creativos": 0.2929,
+      "Empresa": 0.0307,
+      "Otros": 0.0681
+    },
+    "category_confidence": 0.3134
+  },
+  {
+    "id": "jhey24",
+    "name": "surma.dev",
+    "url": "https://surma.dev/",
+    "style": "dark web platform",
+    "source": "Estilo jhey",
+    "notes": "Oscuro, essays técnicos web platform",
+    "context": "Estilo dark web platform. Oscuro, essays técnicos web platform",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3687,
+      "Creativos": 0.241,
+      "Empresa": 0.1514,
+      "Otros": 0.2389
+    },
+    "category_confidence": 0.0343
+  },
+  {
+    "id": "jhey25",
+    "name": "piccalil.li",
+    "url": "https://piccalil.li/",
+    "style": "HTML CSS craft",
+    "source": "Estilo jhey",
+    "notes": "Escuela de HTML/CSS (Piccalilli); simple y pedagógico",
+    "context": "Estilo HTML CSS craft. Escuela de HTML/CSS (Piccalilli); simple y pedagógico",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.5158,
+      "Creativos": 0.3507,
+      "Empresa": 0.0554,
+      "Otros": 0.0781
+    },
+    "category_confidence": 0.2294
+  },
+  {
+    "id": "jhey26",
+    "name": "matuzo.at",
+    "url": "https://www.matuzo.at/",
+    "style": "a11y CSS dark",
+    "source": "Estilo jhey",
+    "notes": "CSS + a11y con demos; tono cercano",
+    "context": "Estilo a11y CSS dark. CSS + a11y con demos; tono cercano",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6931,
+      "Creativos": 0.2217,
+      "Empresa": 0.0227,
+      "Otros": 0.0626
+    },
+    "category_confidence": 0.3887
+  },
+  {
+    "id": "jhey27",
+    "name": "chenhuijing.com",
+    "url": "https://www.chenhuijing.com/",
+    "style": "CSS fonts craft",
+    "source": "Estilo jhey",
+    "notes": "CSS/fonts creative; personalidad + teaching",
+    "context": "Estilo CSS fonts craft. CSS/fonts creative; personalidad + teaching",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3692,
+      "Creativos": 0.2608,
+      "Empresa": 0.1365,
+      "Otros": 0.2335
+    },
+    "category_confidence": 0.0407
+  },
+  {
+    "id": "jhey28",
+    "name": "buildexcellentwebsit.es",
+    "url": "https://buildexcellentwebsit.es/",
+    "style": "CUBE CSS simple",
+    "source": "Estilo jhey",
+    "notes": "Simple, pedagogía CSS moderna (Andy Bell)",
+    "context": "Estilo CUBE CSS simple. Simple, pedagogía CSS moderna (Andy Bell)",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3768,
+      "Creativos": 0.2689,
+      "Empresa": 0.1221,
+      "Otros": 0.2322
+    },
+    "category_confidence": 0.0501
+  },
+  {
+    "id": "jhey29",
+    "name": "samuelkraft.com",
+    "url": "https://samuelkraft.com/",
+    "style": "Oscuro design-eng",
+    "source": "Estilo jhey",
+    "notes": "Design engineer Raycast; tipografía limpia y producto",
+    "context": "Estilo Oscuro design-eng. Design engineer Raycast; tipografía limpia y producto",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.3575,
+      "Creativos": 0.5635,
+      "Empresa": 0.0485,
+      "Otros": 0.0304
+    },
+    "category_confidence": 0.3191
+  },
+  {
+    "id": "jhey30",
+    "name": "ibelick.com",
+    "url": "https://ibelick.com/",
+    "style": "Oscuro UI kits",
+    "source": "Estilo jhey",
+    "notes": "Design engineer; componentes y writing de interfaces",
+    "context": "Estilo Oscuro UI kits. Design engineer; componentes y writing de interfaces",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.551,
+      "Creativos": 0.3626,
+      "Empresa": 0.0143,
+      "Otros": 0.0721
+    },
+    "category_confidence": 0.3172
+  },
+  {
+    "id": "jhey31",
+    "name": "alexcarpenter.me",
+    "url": "https://alexcarpenter.me/",
+    "style": "Oscuro UI-eng",
+    "source": "Estilo jhey",
+    "notes": "Staff UI engineer; interfaces composables",
+    "context": "Estilo Oscuro UI-eng. Staff UI engineer; interfaces composables",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4634,
+      "Creativos": 0.2319,
+      "Empresa": 0.1251,
+      "Otros": 0.1796
+    },
+    "category_confidence": 0.0884
+  },
+  {
+    "id": "jhey32",
+    "name": "craftz.dog",
+    "url": "https://craftz.dog/",
+    "style": "Oscuro personal",
+    "source": "Estilo jhey",
+    "notes": "Takuya; dark #202023, tono amigable",
+    "context": "Estilo Oscuro personal. Takuya; dark #202023, tono amigable",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.3178,
+      "Creativos": 0.3369,
+      "Empresa": 0.119,
+      "Otros": 0.2263
+    },
+    "category_confidence": 0.0475
+  },
+  {
+    "id": "jhey33",
+    "name": "manuarora.in",
+    "url": "https://manuarora.in/",
+    "style": "Oscuro modern-UI",
+    "source": "Estilo jhey",
+    "notes": "Portfolio dark con demos UI",
+    "context": "Estilo Oscuro modern-UI. Portfolio dark con demos UI",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3993,
+      "Creativos": 0.2379,
+      "Empresa": 0.1143,
+      "Otros": 0.2484
+    },
+    "category_confidence": 0.0607
+  },
+  {
+    "id": "jhey34",
+    "name": "midu.dev",
+    "url": "https://midu.dev/",
+    "style": "Oscuro contenido ES",
+    "source": "Estilo jhey",
+    "notes": "Personalidad fuerte + writing/cursos frontend (español)",
+    "context": "Estilo Oscuro contenido ES. Personalidad fuerte + writing/cursos frontend (español)",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8179,
+      "Creativos": 0.0378,
+      "Empresa": 0.0149,
+      "Otros": 0.1294
+    },
+    "category_confidence": 0.5561
+  },
+  {
+    "id": "jhey35",
+    "name": "josefelix.co",
+    "url": "https://www.josefelix.co/",
+    "style": "Oscuro creativo MX",
+    "source": "Estilo jhey",
+    "notes": "LATAM creative frontend WebGL/GSAP",
+    "context": "Estilo Oscuro creativo MX. LATAM creative frontend WebGL/GSAP",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4165,
+      "Creativos": 0.2867,
+      "Empresa": 0.1207,
+      "Otros": 0.1761
+    },
+    "category_confidence": 0.0738
+  },
+  {
+    "id": "jhey36",
+    "name": "vittoretrivi.dev",
+    "url": "https://www.vittoretrivi.dev/",
+    "style": "Oscuro motion AR",
+    "source": "Estilo jhey",
+    "notes": "LATAM Next/Three, experiencias interactivas",
+    "context": "Estilo Oscuro motion AR. LATAM Next/Three, experiencias interactivas",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.9575,
+      "Creativos": 0.0183,
+      "Empresa": 0.0072,
+      "Otros": 0.017
+    },
+    "category_confidence": 0.8416
+  },
+  {
+    "id": "jhey37",
+    "name": "danestves.com",
+    "url": "https://danestves.com/",
+    "style": "Oscuro frontend LATAM",
+    "source": "Estilo jhey",
+    "notes": "Senior frontend; blog/projects, tono personal",
+    "context": "Estilo Oscuro frontend LATAM. Senior frontend; blog/projects, tono personal",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4299,
+      "Creativos": 0.2371,
+      "Empresa": 0.1299,
+      "Otros": 0.2031
+    },
+    "category_confidence": 0.0673
+  },
+  {
+    "id": "jhey38",
+    "name": "felipefialho.com",
+    "url": "https://www.felipefialho.com/",
+    "style": "Oscuro mono BR",
+    "source": "Estilo jhey",
+    "notes": "Dark + tipografía mono; craft frontend BR",
+    "context": "Estilo Oscuro mono BR. Dark + tipografía mono; craft frontend BR",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4442,
+      "Creativos": 0.2549,
+      "Empresa": 0.1286,
+      "Otros": 0.1724
+    },
+    "category_confidence": 0.0798
+  },
+  {
+    "id": "jhey39",
+    "name": "cydstumpel.nl",
+    "url": "https://cydstumpel.nl/",
+    "style": "Creativo motion",
+    "source": "Estilo jhey",
+    "notes": "Creative developer; demos GSAP/scroll",
+    "context": "Estilo Creativo motion. Creative developer; demos GSAP/scroll",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3443,
+      "Creativos": 0.3038,
+      "Empresa": 0.124,
+      "Otros": 0.2279
+    },
+    "category_confidence": 0.0443
+  },
+  {
+    "id": "jhey40",
+    "name": "maximeheckel.com",
+    "url": "https://maximeheckel.com/",
+    "style": "Oscuro creativo lab",
+    "source": "Estilo jhey",
+    "notes": "Lab frontend + writing (home; también blog.maximeheckel.com)",
+    "context": "Estilo Oscuro creativo lab. Lab frontend + writing (home; también blog.maximeheckel.com)",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7092,
+      "Creativos": 0.1395,
+      "Empresa": 0.0731,
+      "Otros": 0.0782
+    },
+    "category_confidence": 0.3443
+  },
+  {
+    "id": "repo1",
+    "name": "portafolio-mauricio-medina.vercel.app",
+    "url": "https://portafolio-mauricio-medina.vercel.app/",
+    "repo": "no encontrado",
+    "stack": "Vite+React",
+    "libs": "Emotion; Web3 signals",
+    "confidence": "medium/low",
+    "notes": "SPA en Vercel; sin repo público",
+    "source": "Repos y stack",
+    "style": "Vite+React",
+    "context": "Stack: Vite+React. Librerías: Emotion; Web3 signals. Confianza: medium/low. Notas: SPA en Vercel; sin repo público.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4491,
+      "Creativos": 0.2285,
+      "Empresa": 0.1258,
+      "Otros": 0.1966
+    },
+    "category_confidence": 0.0785
+  },
+  {
+    "id": "repo2",
+    "name": "juanseaguirre.com",
+    "url": "https://juanseaguirre.com",
+    "repo": "no encontrado",
+    "stack": "Astro+CSS custom",
+    "libs": "—",
+    "confidence": "medium",
+    "notes": "Perfil GH aguirrejuanse",
+    "source": "Repos y stack",
+    "style": "Astro+CSS custom",
+    "context": "Stack: Astro+CSS custom. Librerías: —. Confianza: medium. Notas: Perfil GH aguirrejuanse.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4074,
+      "Creativos": 0.223,
+      "Empresa": 0.1154,
+      "Otros": 0.2542
+    },
+    "category_confidence": 0.0638
+  },
+  {
+    "id": "repo3",
+    "name": "agustinjz.dev",
+    "url": "https://www.agustinjz.dev/",
+    "repo": "https://github.com/Juarex9/Portfolio",
+    "stack": "Vite+React+TS+Tailwind",
+    "libs": "Framer Motion; Lucide; react-router; i18next; CVA",
+    "confidence": "high",
+    "notes": "Deploy idéntico al repo",
+    "source": "Repos y stack",
+    "style": "Vite+React+TS+Tailwind",
+    "context": "Stack: Vite+React+TS+Tailwind. Librerías: Framer Motion; Lucide; react-router; i18next; CVA. Confianza: high. Notas: Deploy idéntico al repo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4412,
+      "Creativos": 0.2043,
+      "Empresa": 0.1311,
+      "Otros": 0.2234
+    },
+    "category_confidence": 0.0719
+  },
+  {
+    "id": "repo4",
+    "name": "zuricata.dev",
+    "url": "https://zuricata.dev/",
+    "repo": "https://github.com/cardugarte/zuricata-dev",
+    "stack": "Astro+React+Tailwind+MDX",
+    "libs": "Lucide",
+    "confidence": "high",
+    "notes": "package.json confirmado",
+    "source": "Repos y stack",
+    "style": "Astro+React+Tailwind+MDX",
+    "context": "Stack: Astro+React+Tailwind+MDX. Librerías: Lucide. Confianza: high. Notas: package.json confirmado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4119,
+      "Creativos": 0.21,
+      "Empresa": 0.108,
+      "Otros": 0.2701
+    },
+    "category_confidence": 0.0717
+  },
+  {
+    "id": "repo5",
+    "name": "adrianvrj.com",
+    "url": "https://adrianvrj.com",
+    "repo": "no encontrado",
+    "stack": "Next.js",
+    "libs": "Framer Motion; Three (señales)",
+    "confidence": "medium",
+    "notes": "Perfil adrianvrj",
+    "source": "Repos y stack",
+    "style": "Next.js",
+    "context": "Stack: Next.js. Librerías: Framer Motion; Three (señales). Confianza: medium. Notas: Perfil adrianvrj.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4256,
+      "Creativos": 0.2111,
+      "Empresa": 0.1316,
+      "Otros": 0.2317
+    },
+    "category_confidence": 0.064
+  },
+  {
+    "id": "repo6",
+    "name": "pedronavajas.com",
+    "url": "https://pedronavajas.com",
+    "repo": "no encontrado",
+    "stack": "Vanilla JS",
+    "libs": "site-data.js + app.js",
+    "confidence": "high",
+    "notes": "Sitio sin repo público",
+    "source": "Repos y stack",
+    "style": "Vanilla JS",
+    "context": "Stack: Vanilla JS. Librerías: site-data.js + app.js. Confianza: high. Notas: Sitio sin repo público.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.458,
+      "Creativos": 0.2044,
+      "Empresa": 0.1155,
+      "Otros": 0.2222
+    },
+    "category_confidence": 0.087
+  },
+  {
+    "id": "repo7",
+    "name": "agustingarate.com",
+    "url": "https://agustingarate.com/",
+    "repo": "https://github.com/agustingarate/portfolio",
+    "stack": "Next.js+Tailwind+TS",
+    "libs": "Motion; Three; Sanity; OpenNext/CF",
+    "confidence": "high",
+    "notes": "Byte-idéntico a workers.dev",
+    "source": "Repos y stack",
+    "style": "Next.js+Tailwind+TS",
+    "context": "Stack: Next.js+Tailwind+TS. Librerías: Motion; Three; Sanity; OpenNext/CF. Confianza: high. Notas: Byte-idéntico a workers.dev.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4091,
+      "Creativos": 0.2357,
+      "Empresa": 0.1399,
+      "Otros": 0.2153
+    },
+    "category_confidence": 0.0536
+  },
+  {
+    "id": "repo8",
+    "name": "brittanychiang.com",
+    "url": "https://brittanychiang.com/",
+    "repo": "https://github.com/bchiang7/v4 (v4; actual no público)",
+    "stack": "Next (actual) / Gatsby (v4)",
+    "libs": "styled-components (v4)",
+    "confidence": "high/medium",
+    "notes": "Usar v4 como template",
+    "source": "Repos y stack",
+    "style": "Next (actual) / Gatsby (v4)",
+    "context": "Stack: Next (actual) / Gatsby (v4). Librerías: styled-components (v4). Confianza: high/medium. Notas: Usar v4 como template.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3976,
+      "Creativos": 0.2067,
+      "Empresa": 0.1201,
+      "Otros": 0.2756
+    },
+    "category_confidence": 0.0606
+  },
+  {
+    "id": "repo9",
+    "name": "henryheffernan.com",
+    "url": "https://henryheffernan.com/",
+    "repo": "https://github.com/henryjeff/portfolio-website",
+    "stack": "React+Three+Webpack",
+    "libs": "GSAP; Framer Motion; GLSL",
+    "confidence": "high",
+    "notes": "MIT ~2.4k stars",
+    "source": "Repos y stack",
+    "style": "React+Three+Webpack",
+    "context": "Stack: React+Three+Webpack. Librerías: GSAP; Framer Motion; GLSL. Confianza: high. Notas: MIT ~2.4k stars.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8029,
+      "Creativos": 0.0912,
+      "Empresa": 0.036,
+      "Otros": 0.0698
+    },
+    "category_confidence": 0.4949
+  },
+  {
+    "id": "repo10",
+    "name": "bruno-simon.com",
+    "url": "https://bruno-simon.com/",
+    "repo": "https://github.com/brunosimon/folio-2025",
+    "stack": "Vite+Three",
+    "libs": "GSAP; Rapier3D; Howler; Stylus",
+    "confidence": "high",
+    "notes": "Versión 2025 OS",
+    "source": "Repos y stack",
+    "style": "Vite+Three",
+    "context": "Stack: Vite+Three. Librerías: GSAP; Rapier3D; Howler; Stylus. Confianza: high. Notas: Versión 2025 OS.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.5062,
+      "Creativos": 0.3287,
+      "Empresa": 0.0193,
+      "Otros": 0.1458
+    },
+    "category_confidence": 0.2302
+  },
+  {
+    "id": "repo11",
+    "name": "rauno.me",
+    "url": "https://rauno.me/",
+    "repo": "no encontrado",
+    "stack": "Next.js",
+    "libs": "—",
+    "confidence": "medium",
+    "notes": "interfaces.rauno.me es otro repo",
+    "source": "Repos y stack",
+    "style": "Next.js",
+    "context": "Stack: Next.js. Librerías: —. Confianza: medium. Notas: interfaces.rauno.me es otro repo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.885,
+      "Creativos": 0.0597,
+      "Empresa": 0.0218,
+      "Otros": 0.0335
+    },
+    "category_confidence": 0.6584
+  },
+  {
+    "id": "repo12",
+    "name": "joshwcomeau.com",
+    "url": "https://www.joshwcomeau.com/",
+    "repo": "no público",
+    "stack": "Next.js+MDX",
+    "libs": "Framer/anim; Linaria",
+    "confidence": "high",
+    "notes": "Closed-source declarado",
+    "source": "Repos y stack",
+    "style": "Next.js+MDX",
+    "context": "Stack: Next.js+MDX. Librerías: Framer/anim; Linaria. Confianza: high. Notas: Closed-source declarado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4475,
+      "Creativos": 0.2304,
+      "Empresa": 0.1393,
+      "Otros": 0.1828
+    },
+    "category_confidence": 0.0743
+  },
+  {
+    "id": "repo13",
+    "name": "leerob.io",
+    "url": "https://leerob.io/",
+    "repo": "https://github.com/leerob/next-mdx-blog (template)",
+    "stack": "Next.js",
+    "libs": "Tailwind+MDX",
+    "confidence": "medium",
+    "notes": "Template histórico; no = sitio live",
+    "source": "Repos y stack",
+    "style": "Next.js",
+    "context": "Stack: Next.js. Librerías: Tailwind+MDX. Confianza: medium. Notas: Template histórico; no = sitio live.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4322,
+      "Creativos": 0.2126,
+      "Empresa": 0.1338,
+      "Otros": 0.2213
+    },
+    "category_confidence": 0.0661
+  },
+  {
+    "id": "repo14",
+    "name": "taniarascia.com",
+    "url": "https://www.taniarascia.com/",
+    "repo": "https://github.com/taniarascia/taniarascia.com",
+    "stack": "Gatsby+React",
+    "libs": "PostCSS; Remark/Prism",
+    "confidence": "high",
+    "notes": "MIT ~2k stars",
+    "source": "Repos y stack",
+    "style": "Gatsby+React",
+    "context": "Stack: Gatsby+React. Librerías: PostCSS; Remark/Prism. Confianza: high. Notas: MIT ~2k stars.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4638,
+      "Creativos": 0.2281,
+      "Empresa": 0.041,
+      "Otros": 0.2671
+    },
+    "category_confidence": 0.1509
+  },
+  {
+    "id": "repo15",
+    "name": "ped.ro",
+    "url": "https://ped.ro/",
+    "repo": "no encontrado",
+    "stack": "Next.js",
+    "libs": "Radix; Stitches",
+    "confidence": "medium",
+    "notes": "Sin repo del sitio",
+    "source": "Repos y stack",
+    "style": "Next.js",
+    "context": "Stack: Next.js. Librerías: Radix; Stitches. Confianza: medium. Notas: Sin repo del sitio.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4272,
+      "Creativos": 0.1877,
+      "Empresa": 0.1559,
+      "Otros": 0.2292
+    },
+    "category_confidence": 0.0588
+  },
+  {
+    "id": "repo16",
+    "name": "jahir.dev",
+    "url": "https://jahir.dev/",
+    "repo": "https://github.com/jahirfiquitiva/jahir.dev (versión anterior)",
+    "stack": "Astro+TW+MDX (actual)",
+    "libs": "Umami; Neon",
+    "confidence": "high",
+    "notes": "Actual no OS (colophon)",
+    "source": "Repos y stack",
+    "style": "Astro+TW+MDX (actual)",
+    "context": "Stack: Astro+TW+MDX (actual). Librerías: Umami; Neon. Confianza: high. Notas: Actual no OS (colophon).",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7987,
+      "Creativos": 0.0712,
+      "Empresa": 0.013,
+      "Otros": 0.117
+    },
+    "category_confidence": 0.5129
+  },
+  {
+    "id": "repo17",
+    "name": "itskev.app",
+    "url": "https://itskev.app/",
+    "repo": "no encontrado",
+    "stack": "Vite+React",
+    "libs": "Emotion",
+    "confidence": "medium",
+    "notes": "Sin repo portfolio",
+    "source": "Repos y stack",
+    "style": "Vite+React",
+    "context": "Stack: Vite+React. Librerías: Emotion. Confianza: medium. Notas: Sin repo portfolio.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3632,
+      "Creativos": 0.2413,
+      "Empresa": 0.128,
+      "Otros": 0.2675
+    },
+    "category_confidence": 0.043
+  },
+  {
+    "id": "repo18",
+    "name": "pablodols.com",
+    "url": "https://pablodols.com/",
+    "repo": "no encontrado",
+    "stack": "Next.js+Tailwind",
+    "libs": "Animaciones custom",
+    "confidence": "medium",
+    "notes": "Sin repo OS",
+    "source": "Repos y stack",
+    "style": "Next.js+Tailwind",
+    "context": "Stack: Next.js+Tailwind. Librerías: Animaciones custom. Confianza: medium. Notas: Sin repo OS.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8984,
+      "Creativos": 0.0591,
+      "Empresa": 0.0097,
+      "Otros": 0.0329
+    },
+    "category_confidence": 0.6967
+  },
+  {
+    "id": "repo19",
+    "name": "lucasaguilera.com.ar",
+    "url": "https://lucasaguilera.com.ar/",
+    "repo": "no encontrado",
+    "stack": "no determinado",
+    "libs": "—",
+    "confidence": "low",
+    "notes": "HTTP 202 SiteGround captcha",
+    "source": "Repos y stack",
+    "style": "no determinado",
+    "context": "Stack: no determinado. Librerías: —. Confianza: low. Notas: HTTP 202 SiteGround captcha.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.43,
+      "Creativos": 0.2208,
+      "Empresa": 0.1378,
+      "Otros": 0.2115
+    },
+    "category_confidence": 0.0636
+  },
+  {
+    "id": "repo20",
+    "name": "joseas.dev",
+    "url": "https://joseas.dev/",
+    "repo": "no encontrado",
+    "stack": "WordPress",
+    "libs": "jQuery/tema WP",
+    "confidence": "high",
+    "notes": "Stack WP confirmado",
+    "source": "Repos y stack",
+    "style": "WordPress",
+    "context": "Stack: WordPress. Librerías: jQuery/tema WP. Confianza: high. Notas: Stack WP confirmado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3783,
+      "Creativos": 0.2101,
+      "Empresa": 0.1305,
+      "Otros": 0.2812
+    },
+    "category_confidence": 0.0493
+  },
+  {
+    "id": "repo21",
+    "name": "sanruiz.co",
+    "url": "https://sanruiz.co/",
+    "repo": "https://github.com/sanruiz/SR-portfolio",
+    "stack": "Next.js+Tailwind+TS",
+    "libs": "Radix; CVA; lucide; next-themes",
+    "confidence": "high",
+    "notes": "Homepage = sanruiz.co",
+    "source": "Repos y stack",
+    "style": "Next.js+Tailwind+TS",
+    "context": "Stack: Next.js+Tailwind+TS. Librerías: Radix; CVA; lucide; next-themes. Confianza: high. Notas: Homepage = sanruiz.co.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4031,
+      "Creativos": 0.2232,
+      "Empresa": 0.1282,
+      "Otros": 0.2455
+    },
+    "category_confidence": 0.0557
+  },
+  {
+    "id": "repo22",
+    "name": "delba.dev",
+    "url": "https://delba.dev/",
+    "repo": "no encontrado",
+    "stack": "Next.js",
+    "libs": "Framer Motion",
+    "confidence": "medium",
+    "notes": "Sin repo confirmado",
+    "source": "Repos y stack",
+    "style": "Next.js",
+    "context": "Stack: Next.js. Librerías: Framer Motion. Confianza: medium. Notas: Sin repo confirmado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4051,
+      "Creativos": 0.1978,
+      "Empresa": 0.135,
+      "Otros": 0.2622
+    },
+    "category_confidence": 0.0566
+  },
+  {
+    "id": "repo23",
+    "name": "jhey.dev",
+    "url": "https://jhey.dev/",
+    "repo": "no encontrado",
+    "stack": "Astro",
+    "libs": "—",
+    "confidence": "medium",
+    "notes": "Demos OS en jh3y",
+    "source": "Repos y stack",
+    "style": "Astro",
+    "context": "Stack: Astro. Librerías: —. Confianza: medium. Notas: Demos OS en jh3y.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7804,
+      "Creativos": 0.0691,
+      "Empresa": 0.0117,
+      "Otros": 0.1387
+    },
+    "category_confidence": 0.492
+  },
+  {
+    "id": "repo24",
+    "name": "ryo.lu",
+    "url": "https://ryo.lu/",
+    "repo": "https://github.com/ryokun6/ryos (relacionado)",
+    "stack": "Landing CRA / ryOS Vite+React",
+    "libs": "TW; Three; Motion; Radix",
+    "confidence": "medium/high",
+    "notes": "os.ryo.lu = ryos",
+    "source": "Repos y stack",
+    "style": "Landing CRA / ryOS Vite+React",
+    "context": "Stack: Landing CRA / ryOS Vite+React. Librerías: TW; Three; Motion; Radix. Confianza: medium/high. Notas: os.ryo.lu = ryos.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3729,
+      "Creativos": 0.2208,
+      "Empresa": 0.1257,
+      "Otros": 0.2806
+    },
+    "category_confidence": 0.0488
+  },
+  {
+    "id": "starter1",
+    "name": "Brittany Chiang v4",
+    "url": "https://github.com/bchiang7/v4",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Fork clásico de portfolio (Gatsby); miles de clones",
+    "style": "intermedio",
+    "context": "Recurso/template: Brittany Chiang v4. Nivel: intermedio. Utilidad: Fork clásico de portfolio (Gatsby); miles de clones.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3589,
+      "Creativos": 0.197,
+      "Empresa": 0.1008,
+      "Otros": 0.3433
+    },
+    "category_confidence": 0.0722
+  },
+  {
+    "id": "starter2",
+    "name": "Henry Heffernan 3D",
+    "url": "https://github.com/henryjeff/portfolio-website",
+    "source": "Starter pack",
+    "level": "avanzado",
+    "notes": "Portfolio 3D completo Three + GSAP + React",
+    "style": "avanzado",
+    "context": "Recurso/template: Henry Heffernan 3D. Nivel: avanzado. Utilidad: Portfolio 3D completo Three + GSAP + React.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.396,
+      "Creativos": 0.2259,
+      "Empresa": 0.0955,
+      "Otros": 0.2827
+    },
+    "category_confidence": 0.0736
+  },
+  {
+    "id": "starter3",
+    "name": "Bruno Simon folio-2025",
+    "url": "https://github.com/brunosimon/folio-2025",
+    "source": "Starter pack",
+    "level": "avanzado",
+    "notes": "Vite + Three + Rapier + GSAP creativo",
+    "style": "avanzado",
+    "context": "Recurso/template: Bruno Simon folio-2025. Nivel: avanzado. Utilidad: Vite + Three + Rapier + GSAP creativo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3298,
+      "Creativos": 0.2674,
+      "Empresa": 0.1074,
+      "Otros": 0.2954
+    },
+    "category_confidence": 0.049
+  },
+  {
+    "id": "starter4",
+    "name": "Lee Robinson MDX blog",
+    "url": "https://github.com/leerob/next-mdx-blog",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Starter Next + MDX + Tailwind para contenido",
+    "style": "principiante",
+    "context": "Recurso/template: Lee Robinson MDX blog. Nivel: principiante. Utilidad: Starter Next + MDX + Tailwind para contenido.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3407,
+      "Creativos": 0.206,
+      "Empresa": 0.1231,
+      "Otros": 0.3303
+    },
+    "category_confidence": 0.0507
+  },
+  {
+    "id": "starter5",
+    "name": "Jahir.dev (versión OS)",
+    "url": "https://github.com/jahirfiquitiva/jahir.dev",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Portfolio/blog Next + Tailwind + MDX documentado",
+    "style": "intermedio",
+    "context": "Recurso/template: Jahir.dev (versión OS). Nivel: intermedio. Utilidad: Portfolio/blog Next + Tailwind + MDX documentado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7579,
+      "Creativos": 0.0123,
+      "Empresa": 0.0022,
+      "Otros": 0.2276
+    },
+    "category_confidence": 0.5568
+  },
+  {
+    "id": "starter6",
+    "name": "Astro Paper",
+    "url": "https://github.com/satnaing/astro-paper",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Tema Astro + Tailwind minimal estático",
+    "style": "principiante",
+    "context": "Recurso/template: Astro Paper. Nivel: principiante. Utilidad: Tema Astro + Tailwind minimal estático.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.31,
+      "Creativos": 0.2046,
+      "Empresa": 0.08,
+      "Otros": 0.4053
+    },
+    "category_confidence": 0.0941
+  },
+  {
+    "id": "starter7",
+    "name": "Astro Cactus",
+    "url": "https://github.com/chrismwilliams/astro-theme-cactus",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Astro + MDX + dark mode + search",
+    "style": "principiante",
+    "context": "Recurso/template: Astro Cactus. Nivel: principiante. Utilidad: Astro + MDX + dark mode + search.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.3706,
+      "Creativos": 0.1747,
+      "Empresa": 0.0566,
+      "Otros": 0.3981
+    },
+    "category_confidence": 0.133
+  },
+  {
+    "id": "starter8",
+    "name": "Astro portfolio example",
+    "url": "https://github.com/withastro/astro/tree/main/examples/portfolio",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Ejemplo oficial Astro limpio",
+    "style": "principiante",
+    "context": "Recurso/template: Astro portfolio example. Nivel: principiante. Utilidad: Ejemplo oficial Astro limpio.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.3264,
+      "Creativos": 0.208,
+      "Empresa": 0.1133,
+      "Otros": 0.3523
+    },
+    "category_confidence": 0.0577
+  },
+  {
+    "id": "starter9",
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com/",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Componentes Radix + Tailwind copiables",
+    "style": "principiante",
+    "context": "Recurso/template: shadcn/ui. Nivel: principiante. Utilidad: Componentes Radix + Tailwind copiables.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.392,
+      "Creativos": 0.2154,
+      "Empresa": 0.0917,
+      "Otros": 0.3008
+    },
+    "category_confidence": 0.0779
+  },
+  {
+    "id": "starter10",
+    "name": "Magic UI",
+    "url": "https://magicui.design/",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Bloques animados (Motion) heroes y bento",
+    "style": "intermedio",
+    "context": "Recurso/template: Magic UI. Nivel: intermedio. Utilidad: Bloques animados (Motion) heroes y bento.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.0141,
+      "Creativos": 0.4452,
+      "Empresa": 0.001,
+      "Otros": 0.5397
+    },
+    "category_confidence": 0.4517
+  },
+  {
+    "id": "starter11",
+    "name": "Aceternity UI",
+    "url": "https://ui.aceternity.com/",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Efectos wow React + Tailwind",
+    "style": "intermedio",
+    "context": "Recurso/template: Aceternity UI. Nivel: intermedio. Utilidad: Efectos wow React + Tailwind.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4149,
+      "Creativos": 0.2253,
+      "Empresa": 0.0862,
+      "Otros": 0.2736
+    },
+    "category_confidence": 0.0863
+  },
+  {
+    "id": "starter12",
+    "name": "Minimal CV (Next + shadcn)",
+    "url": "https://github.com/BartoszJarocki/cv",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "CV/portfolio minimal print-friendly",
+    "style": "principiante",
+    "context": "Recurso/template: Minimal CV (Next + shadcn). Nivel: principiante. Utilidad: CV/portfolio minimal print-friendly.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.3199,
+      "Creativos": 0.2068,
+      "Empresa": 0.0981,
+      "Otros": 0.3752
+    },
+    "category_confidence": 0.0723
+  },
+  {
+    "id": "starter13",
+    "name": "React Three Fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "source": "Starter pack",
+    "level": "avanzado",
+    "notes": "Three.js en React para escenas 3D",
+    "style": "avanzado",
+    "context": "Recurso/template: React Three Fiber. Nivel: avanzado. Utilidad: Three.js en React para escenas 3D.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4471,
+      "Creativos": 0.1866,
+      "Empresa": 0.0968,
+      "Otros": 0.2695
+    },
+    "category_confidence": 0.0965
+  },
+  {
+    "id": "starter14",
+    "name": "Three.js examples",
+    "url": "https://threejs.org/examples/",
+    "source": "Starter pack",
+    "level": "avanzado",
+    "notes": "Catálogo oficial de demos 3D",
+    "style": "avanzado",
+    "context": "Recurso/template: Three.js examples. Nivel: avanzado. Utilidad: Catálogo oficial de demos 3D.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4123,
+      "Creativos": 0.2012,
+      "Empresa": 0.0962,
+      "Otros": 0.2904
+    },
+    "category_confidence": 0.0823
+  },
+  {
+    "id": "starter15",
+    "name": "Motion (Framer Motion)",
+    "url": "https://www.framer.com/motion/",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Animación UI estándar React/Next",
+    "style": "principiante",
+    "context": "Recurso/template: Motion (Framer Motion). Nivel: principiante. Utilidad: Animación UI estándar React/Next.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4552,
+      "Creativos": 0.2227,
+      "Empresa": 0.0913,
+      "Otros": 0.2309
+    },
+    "category_confidence": 0.0986
+  },
+  {
+    "id": "starter16",
+    "name": "daisyUI",
+    "url": "https://github.com/saadeghi/daisyui",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Componentes Tailwind free",
+    "style": "principiante",
+    "context": "Recurso/template: daisyUI. Nivel: principiante. Utilidad: Componentes Tailwind free.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3851,
+      "Creativos": 0.2047,
+      "Empresa": 0.0769,
+      "Otros": 0.3332
+    },
+    "category_confidence": 0.0942
+  },
+  {
+    "id": "starter17",
+    "name": "Tailwind Next.js starter blog",
+    "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Blog/portfolio Next + Tailwind + MDX",
+    "style": "intermedio",
+    "context": "Recurso/template: Tailwind Next.js starter blog. Nivel: intermedio. Utilidad: Blog/portfolio Next + Tailwind + MDX.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3787,
+      "Creativos": 0.185,
+      "Empresa": 0.0961,
+      "Otros": 0.3402
+    },
+    "category_confidence": 0.0826
+  },
+  {
+    "id": "starter18",
+    "name": "LATAM Zuricata (Astro)",
+    "url": "https://github.com/cardugarte/zuricata-dev",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Portfolio Astro real LATAM para fork",
+    "style": "principiante",
+    "context": "Recurso/template: LATAM Zuricata (Astro). Nivel: principiante. Utilidad: Portfolio Astro real LATAM para fork.",
+    "category": "Otros",
+    "category_probs": {
+      "Desarrollador": 0.3587,
+      "Creativos": 0.1797,
+      "Empresa": 0.0911,
+      "Otros": 0.3705
+    },
+    "category_confidence": 0.0894
+  },
+  {
+    "id": "starter19",
+    "name": "LATAM Agustín Garate (Next)",
+    "url": "https://github.com/agustingarate/portfolio",
+    "source": "Starter pack",
+    "level": "intermedio",
+    "notes": "Next + Tailwind + Motion + Three + Sanity",
+    "style": "intermedio",
+    "context": "Recurso/template: LATAM Agustín Garate (Next). Nivel: intermedio. Utilidad: Next + Tailwind + Motion + Three + Sanity.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3464,
+      "Creativos": 0.2444,
+      "Empresa": 0.1371,
+      "Otros": 0.2721
+    },
+    "category_confidence": 0.0347
+  },
+  {
+    "id": "starter20",
+    "name": "LATAM San Ruiz (Next)",
+    "url": "https://github.com/sanruiz/SR-portfolio",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Next + Tailwind estilo shadcn",
+    "style": "principiante",
+    "context": "Recurso/template: LATAM San Ruiz (Next). Nivel: principiante. Utilidad: Next + Tailwind estilo shadcn.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3299,
+      "Creativos": 0.2499,
+      "Empresa": 0.1099,
+      "Otros": 0.3104
+    },
+    "category_confidence": 0.0492
+  },
+  {
+    "id": "starter21",
+    "name": "Juarex9 Portfolio (Vite)",
+    "url": "https://github.com/Juarex9/Portfolio",
+    "source": "Starter pack",
+    "level": "principiante",
+    "notes": "Vite + React + TW + Framer (agustinjz.dev)",
+    "style": "principiante",
+    "context": "Recurso/template: Juarex9 Portfolio (Vite). Nivel: principiante. Utilidad: Vite + React + TW + Framer (agustinjz.dev).",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4023,
+      "Creativos": 0.1754,
+      "Empresa": 0.0887,
+      "Otros": 0.3336
+    },
+    "category_confidence": 0.0963
+  },
+  {
+    "id": "c3d1",
+    "name": "bruno-simon.com",
+    "url": "https://bruno-simon.com/",
+    "style": "3D WebGL interactivo",
+    "profile": "creative-dev",
+    "notes": "Referencia clásica: portafolio-juego con auto; mucho 3D",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D WebGL interactivo. Perfil creative-dev. Referencia clásica: portafolio-juego con auto; mucho 3D",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4349,
+      "Creativos": 0.2531,
+      "Empresa": 0.1139,
+      "Otros": 0.1981
+    },
+    "category_confidence": 0.0781
+  },
+  {
+    "id": "c3d2",
+    "name": "henryheffernan.com",
+    "url": "https://henryheffernan.com/",
+    "style": "3D room OS",
+    "profile": "creative-dev",
+    "notes": "Escena 3D tipo escritorio; componentes inmersivos",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D room OS. Perfil creative-dev. Escena 3D tipo escritorio; componentes inmersivos",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.9011,
+      "Creativos": 0.049,
+      "Empresa": 0.0102,
+      "Otros": 0.0396
+    },
+    "category_confidence": 0.6995
+  },
+  {
+    "id": "c3d3",
+    "name": "ryo.lu",
+    "url": "https://ryo.lu/",
+    "style": "OS experimental 3D",
+    "profile": "product/creative",
+    "notes": "Interfaz tipo OS, experiments y producto",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo OS experimental 3D. Perfil product/creative. Interfaz tipo OS, experiments y producto",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.5661,
+      "Creativos": 0.3149,
+      "Empresa": 0.0497,
+      "Otros": 0.0693
+    },
+    "category_confidence": 0.2641
+  },
+  {
+    "id": "c3d4",
+    "name": "dennissnellenberg.com",
+    "url": "https://dennissnellenberg.com/",
+    "style": "scroll motion dark",
+    "profile": "creative-dev",
+    "notes": "Scroll storytelling fuerte, tipografía + motion",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo scroll motion dark. Perfil creative-dev. Scroll storytelling fuerte, tipografía + motion",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3692,
+      "Creativos": 0.3048,
+      "Empresa": 0.1158,
+      "Otros": 0.2103
+    },
+    "category_confidence": 0.0568
+  },
+  {
+    "id": "c3d5",
+    "name": "niccolomiranda.com",
+    "url": "https://www.niccolomiranda.com/",
+    "style": "tipo + motion",
+    "profile": "creative-dev",
+    "notes": "Tipografía experimental y animaciones de alto nivel",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo tipo + motion. Perfil creative-dev. Tipografía experimental y animaciones de alto nivel",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8175,
+      "Creativos": 0.1231,
+      "Empresa": 0.0236,
+      "Otros": 0.0358
+    },
+    "category_confidence": 0.5453
+  },
+  {
+    "id": "c3d6",
+    "name": "patrickheng.com",
+    "url": "https://www.patrickheng.com/",
+    "style": "WebGL craft",
+    "profile": "creative-dev",
+    "notes": "Demos WebGL/Three con look de design engineer creativo",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL craft. Perfil creative-dev. Demos WebGL/Three con look de design engineer creativo",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4048,
+      "Creativos": 0.247,
+      "Empresa": 0.1113,
+      "Otros": 0.2369
+    },
+    "category_confidence": 0.0644
+  },
+  {
+    "id": "c3d7",
+    "name": "davidhaz.com",
+    "url": "https://www.davidhaz.com/",
+    "style": "3D product",
+    "profile": "creative-dev",
+    "notes": "Piezas 3D/producto con feel de estudio creativo",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D product. Perfil creative-dev. Piezas 3D/producto con feel de estudio creativo",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3331,
+      "Creativos": 0.2788,
+      "Empresa": 0.195,
+      "Otros": 0.1932
+    },
+    "category_confidence": 0.02
+  },
+  {
+    "id": "c3d8",
+    "name": "josefelix.co",
+    "url": "https://www.josefelix.co/",
+    "style": "WebGL/GSAP LATAM",
+    "profile": "creative-dev",
+    "notes": "Creativo MX; WebGL/GSAP, no corporativo",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL/GSAP LATAM. Perfil creative-dev. Creativo MX; WebGL/GSAP, no corporativo",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4371,
+      "Creativos": 0.2513,
+      "Empresa": 0.1179,
+      "Otros": 0.1937
+    },
+    "category_confidence": 0.0775
+  },
+  {
+    "id": "c3d9",
+    "name": "vittoretrivi.dev",
+    "url": "https://www.vittoretrivi.dev/",
+    "style": "Three motion AR",
+    "profile": "creative-dev",
+    "notes": "LATAM Next/Three; experiencias interactivas",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo Three motion AR. Perfil creative-dev. LATAM Next/Three; experiencias interactivas",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8791,
+      "Creativos": 0.039,
+      "Empresa": 0.0148,
+      "Otros": 0.0672
+    },
+    "category_confidence": 0.6513
+  },
+  {
+    "id": "c3d10",
+    "name": "basement.studio",
+    "url": "https://www.basement.studio/",
+    "style": "studio WebGL",
+    "profile": "studio creativo",
+    "notes": "Estudio con piezas 3D/WebGL de referencia",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo studio WebGL. Perfil studio creativo. Estudio con piezas 3D/WebGL de referencia",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4349,
+      "Creativos": 0.2342,
+      "Empresa": 0.1176,
+      "Otros": 0.2133
+    },
+    "category_confidence": 0.0743
+  },
+  {
+    "id": "c3d11",
+    "name": "lusion.co",
+    "url": "https://www.lusion.co/",
+    "style": "studio WebGL heavy",
+    "profile": "studio creativo",
+    "notes": "WebGL/immersive de estudio; muchos componentes 3D",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo studio WebGL heavy. Perfil studio creativo. WebGL/immersive de estudio; muchos componentes 3D",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4276,
+      "Creativos": 0.2227,
+      "Empresa": 0.1409,
+      "Otros": 0.2088
+    },
+    "category_confidence": 0.0615
+  },
+  {
+    "id": "c3d12",
+    "name": "cuberto.com",
+    "url": "https://www.cuberto.com/",
+    "style": "UX motion studio",
+    "profile": "studio UX",
+    "notes": "Motion + UI de producto; vibe agencia creativa",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UX motion studio. Perfil studio UX. Motion + UI de producto; vibe agencia creativa",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3794,
+      "Creativos": 0.2577,
+      "Empresa": 0.1471,
+      "Otros": 0.2159
+    },
+    "category_confidence": 0.0406
+  },
+  {
+    "id": "c3d13",
+    "name": "kprverse.com",
+    "url": "https://www.kprverse.com/",
+    "style": "3D brand world",
+    "profile": "studio creativo",
+    "notes": "Mundos 3D de marca, muy visual",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D brand world. Perfil studio creativo. Mundos 3D de marca, muy visual",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6616,
+      "Creativos": 0.1612,
+      "Empresa": 0.0503,
+      "Otros": 0.1268
+    },
+    "category_confidence": 0.2931
+  },
+  {
+    "id": "c3d14",
+    "name": "siena.cx",
+    "url": "https://www.siena.cx/",
+    "style": "creative digital",
+    "profile": "studio creativo",
+    "notes": "Sitio de estudio creativo digital",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo creative digital. Perfil studio creativo. Sitio de estudio creativo digital",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3167,
+      "Creativos": 0.2603,
+      "Empresa": 0.2157,
+      "Otros": 0.2073
+    },
+    "category_confidence": 0.0106
+  },
+  {
+    "id": "c3d15",
+    "name": "activetheory.net",
+    "url": "https://activetheory.net/",
+    "style": "immersive WebGL",
+    "profile": "studio creativo",
+    "notes": "Experiencias inmersivas WebGL",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo immersive WebGL. Perfil studio creativo. Experiencias inmersivas WebGL",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4039,
+      "Creativos": 0.2552,
+      "Empresa": 0.1344,
+      "Otros": 0.2065
+    },
+    "category_confidence": 0.0549
+  },
+  {
+    "id": "c3d16",
+    "name": "resn.co.nz",
+    "url": "https://www.resn.co.nz/",
+    "style": "award WebGL",
+    "profile": "studio creativo",
+    "notes": "Estudio NZ; piezas interactivas premiadas",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo award WebGL. Perfil studio creativo. Estudio NZ; piezas interactivas premiadas",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3911,
+      "Creativos": 0.2686,
+      "Empresa": 0.1563,
+      "Otros": 0.184
+    },
+    "category_confidence": 0.0465
+  },
+  {
+    "id": "c3d17",
+    "name": "darkroom.engineering",
+    "url": "https://darkroom.engineering/",
+    "style": "WebGL engineering",
+    "profile": "studio creativo",
+    "notes": "Studio Freight/Darkroom; craft WebGL técnico",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL engineering. Perfil studio creativo. Studio Freight/Darkroom; craft WebGL técnico",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4557,
+      "Creativos": 0.2207,
+      "Empresa": 0.1026,
+      "Otros": 0.2211
+    },
+    "category_confidence": 0.092
+  },
+  {
+    "id": "c3d18",
+    "name": "studiofreight.com",
+    "url": "https://www.studiofreight.com/",
+    "style": "creative tech",
+    "profile": "studio creativo",
+    "notes": "Creative tech + open source visual",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo creative tech. Perfil studio creativo. Creative tech + open source visual",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3426,
+      "Creativos": 0.2371,
+      "Empresa": 0.1908,
+      "Otros": 0.2295
+    },
+    "category_confidence": 0.0174
+  },
+  {
+    "id": "c3d19",
+    "name": "offf.studio",
+    "url": "https://www.offf.studio/",
+    "style": "festival creativo",
+    "profile": "studio creativo",
+    "notes": "OFFF; cultura creativa y diseño",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo festival creativo. Perfil studio creativo. OFFF; cultura creativa y diseño",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6393,
+      "Creativos": 0.2347,
+      "Empresa": 0.0503,
+      "Otros": 0.0758
+    },
+    "category_confidence": 0.2988
+  },
+  {
+    "id": "c3d20",
+    "name": "locomotive.ca",
+    "url": "https://www.locomotive.ca/",
+    "style": "scroll craft studio",
+    "profile": "studio creativo",
+    "notes": "Locomotive; scroll y craft de front creativo",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo scroll craft studio. Perfil studio creativo. Locomotive; scroll y craft de front creativo",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3938,
+      "Creativos": 0.2897,
+      "Empresa": 0.0828,
+      "Otros": 0.2337
+    },
+    "category_confidence": 0.0825
+  },
+  {
+    "id": "c3d21",
+    "name": "immersion.fr",
+    "url": "https://www.immersion.fr/",
+    "style": "immersive FR",
+    "profile": "studio creativo",
+    "notes": "Experiencias inmersivas",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo immersive FR. Perfil studio creativo. Experiencias inmersivas",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3366,
+      "Creativos": 0.267,
+      "Empresa": 0.1475,
+      "Otros": 0.2489
+    },
+    "category_confidence": 0.028
+  },
+  {
+    "id": "c3d22",
+    "name": "arshakir.com",
+    "url": "https://www.arshakir.com/",
+    "style": "UI kits clean",
+    "profile": "UX/UI",
+    "notes": "UI designer; kits y pieces de interfaz",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UI kits clean. Perfil UX/UI. UI designer; kits y pieces de interfaz",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.3921,
+      "Creativos": 0.4312,
+      "Empresa": 0.033,
+      "Otros": 0.1436
+    },
+    "category_confidence": 0.1912
+  },
+  {
+    "id": "c3d23",
+    "name": "seanhalpin.xyz",
+    "url": "https://www.seanhalpin.xyz/",
+    "style": "product design story",
+    "profile": "UX/UI",
+    "notes": "Product designer; narrativa visual de producto",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo product design story. Perfil UX/UI. Product designer; narrativa visual de producto",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3406,
+      "Creativos": 0.2941,
+      "Empresa": 0.1603,
+      "Otros": 0.2051
+    },
+    "category_confidence": 0.0297
+  },
+  {
+    "id": "c3d24",
+    "name": "stephaniewalter.design",
+    "url": "https://www.stephaniewalter.design/",
+    "style": "UX research design",
+    "profile": "UX/UI",
+    "notes": "UX researcher/designer; case studies claros",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UX research design. Perfil UX/UI. UX researcher/designer; case studies claros",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3653,
+      "Creativos": 0.2586,
+      "Empresa": 0.1476,
+      "Otros": 0.2285
+    },
+    "category_confidence": 0.0353
+  },
+  {
+    "id": "c3d25",
+    "name": "melaniedaveid.com",
+    "url": "https://www.melaniedaveid.com/",
+    "style": "UX/UI portfolio",
+    "profile": "UX/UI",
+    "notes": "Portafolio UX/UI con piezas de producto",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UX/UI portfolio. Perfil UX/UI. Portafolio UX/UI con piezas de producto",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3126,
+      "Creativos": 0.267,
+      "Empresa": 0.2154,
+      "Otros": 0.2049
+    },
+    "category_confidence": 0.0106
+  },
+  {
+    "id": "c3d26",
+    "name": "ia.net",
+    "url": "https://www.ia.net/",
+    "style": "product design studio",
+    "profile": "UX/UI",
+    "notes": "iA; diseño de producto tipográfico y UX",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo product design studio. Perfil UX/UI. iA; diseño de producto tipográfico y UX",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.6051,
+      "Creativos": 0.2257,
+      "Empresa": 0.0817,
+      "Otros": 0.0875
+    },
+    "category_confidence": 0.2371
+  },
+  {
+    "id": "c3d29",
+    "name": "mengto.com",
+    "url": "https://www.mengto.com/",
+    "style": "design education UI",
+    "profile": "UX/UI",
+    "notes": "DesignCode; UI kits y educación de diseño",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo design education UI. Perfil UX/UI. DesignCode; UI kits y educación de diseño",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7938,
+      "Creativos": 0.1397,
+      "Empresa": 0.0292,
+      "Otros": 0.0373
+    },
+    "category_confidence": 0.5065
+  },
+  {
+    "id": "c3d30",
+    "name": "frankchimero.com",
+    "url": "https://www.frankchimero.com/",
+    "style": "design essay",
+    "profile": "UX/UI",
+    "notes": "Diseñador/escritor; tono de design thinking",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo design essay. Perfil UX/UI. Diseñador/escritor; tono de design thinking",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3121,
+      "Creativos": 0.3095,
+      "Empresa": 0.1682,
+      "Otros": 0.2103
+    },
+    "category_confidence": 0.0232
+  },
+  {
+    "id": "c3d31",
+    "name": "coryhughart.com",
+    "url": "https://www.coryhughart.com/",
+    "style": "UI craft",
+    "profile": "UX/UI",
+    "notes": "UI designer; craft de interfaces",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UI craft. Perfil UX/UI. UI designer; craft de interfaces",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4125,
+      "Creativos": 0.2364,
+      "Empresa": 0.1468,
+      "Otros": 0.2043
+    },
+    "category_confidence": 0.0534
+  },
+  {
+    "id": "c3d32",
+    "name": "mynameisjehad.com",
+    "url": "https://www.mynameisjehad.com/",
+    "style": "product design",
+    "profile": "UX/UI",
+    "notes": "Product design personal",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo product design. Perfil UX/UI. Product design personal",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3693,
+      "Creativos": 0.2596,
+      "Empresa": 0.1975,
+      "Otros": 0.1736
+    },
+    "category_confidence": 0.0317
+  },
+  {
+    "id": "c3d33",
+    "name": "cassandratang.com",
+    "url": "https://www.cassandratang.com/",
+    "style": "UX portfolio",
+    "profile": "UX/UI",
+    "notes": "Portafolio UX",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UX portfolio. Perfil UX/UI. Portafolio UX",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3342,
+      "Creativos": 0.2694,
+      "Empresa": 0.1775,
+      "Otros": 0.2189
+    },
+    "category_confidence": 0.0197
+  },
+  {
+    "id": "c3d34",
+    "name": "morgane.design",
+    "url": "https://www.morgane.design/",
+    "style": "UX/UI FR",
+    "profile": "UX/UI",
+    "notes": "Diseñadora UX/UI",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo UX/UI FR. Perfil UX/UI. Diseñadora UX/UI",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.382,
+      "Creativos": 0.2558,
+      "Empresa": 0.1421,
+      "Otros": 0.2201
+    },
+    "category_confidence": 0.0429
+  },
+  {
+    "id": "c3d35",
+    "name": "agustingarate.com",
+    "url": "https://agustingarate.com/",
+    "style": "cream motion",
+    "profile": "creative-dev",
+    "notes": "Motion + UI LATAM (seed del taller)",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo cream motion. Perfil creative-dev. Motion + UI LATAM (seed del taller)",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3506,
+      "Creativos": 0.3276,
+      "Empresa": 0.1168,
+      "Otros": 0.205
+    },
+    "category_confidence": 0.056
+  },
+  {
+    "id": "c3d36",
+    "name": "pedronavajas.com",
+    "url": "https://pedronavajas.com/",
+    "style": "editorial dark",
+    "profile": "creative",
+    "notes": "Editorial creativo LATAM",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo editorial dark. Perfil creative. Editorial creativo LATAM",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3377,
+      "Creativos": 0.2978,
+      "Empresa": 0.1677,
+      "Otros": 0.1968
+    },
+    "category_confidence": 0.0286
+  },
+  {
+    "id": "c3d37",
+    "name": "adrianvrj.com",
+    "url": "https://adrianvrj.com/",
+    "style": "case-study 3D-ish",
+    "profile": "creative-dev",
+    "notes": "Case studies tech con piezas visuales",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo case-study 3D-ish. Perfil creative-dev. Case studies tech con piezas visuales",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3203,
+      "Creativos": 0.3132,
+      "Empresa": 0.1683,
+      "Otros": 0.1982
+    },
+    "category_confidence": 0.0269
+  },
+  {
+    "id": "c3d38",
+    "name": "jesperlandberg.com",
+    "url": "https://jesperlandberg.com/",
+    "style": "creative front",
+    "profile": "creative-dev",
+    "notes": "Creative frontend con demos",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo creative front. Perfil creative-dev. Creative frontend con demos",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3921,
+      "Creativos": 0.2659,
+      "Empresa": 0.1441,
+      "Otros": 0.1979
+    },
+    "category_confidence": 0.0485
+  },
+  {
+    "id": "c3d39",
+    "name": "mariosouto.com",
+    "url": "https://www.mariosouto.com/",
+    "style": "frontend creativo",
+    "profile": "creative-dev",
+    "notes": "Frontend con vibe de producto/UI",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo frontend creativo. Perfil creative-dev. Frontend con vibe de producto/UI",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3861,
+      "Creativos": 0.2579,
+      "Empresa": 0.1393,
+      "Otros": 0.2167
+    },
+    "category_confidence": 0.0457
+  },
+  {
+    "id": "c3d40",
+    "name": "rennesis.com",
+    "url": "https://rennesis.com/",
+    "style": "3D interactivo UI dark",
+    "profile": "UX/UI",
+    "notes": "Design Director (Studio Freight); UI+3D/WebGL/Spline; perfil más dirección creativa que demo CSS.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D interactivo UI dark. Perfil UX/UI. Design Director (Studio Freight); UI+3D/WebGL/Spline; perfil más dirección creativa que demo CSS.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.7996,
+      "Creativos": 0.1244,
+      "Empresa": 0.0246,
+      "Otros": 0.0513
+    },
+    "category_confidence": 0.5083
+  },
+  {
+    "id": "c3d41",
+    "name": "toshihito-endo.com",
+    "url": "https://toshihito-endo.com/",
+    "style": "3D narrativo WebGL",
+    "profile": "UX/UI",
+    "notes": "Diseñador+dev; experiencias narrativas táctiles con Three.js/GSAP; hidrato de portfolio de producto/marca.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D narrativo WebGL. Perfil UX/UI. Diseñador+dev; experiencias narrativas táctiles con Three.js/GSAP; hidrato de portfolio de producto/marca.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4743,
+      "Creativos": 0.2193,
+      "Empresa": 0.1237,
+      "Otros": 0.1827
+    },
+    "category_confidence": 0.0943
+  },
+  {
+    "id": "c3d42",
+    "name": "xianyaowei.com",
+    "url": "https://xianyaowei.com/",
+    "style": "3D espacial inmersivo",
+    "profile": "UX/UI",
+    "notes": "Dev+diseñador; fondos de diseño; mundos espaciales Three.js/R3F (Susurrus, Weisdevice).",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D espacial inmersivo. Perfil UX/UI. Dev+diseñador; fondos de diseño; mundos espaciales Three.js/R3F (Susurrus, Weisdevice).",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4496,
+      "Creativos": 0.2241,
+      "Empresa": 0.1305,
+      "Otros": 0.1958
+    },
+    "category_confidence": 0.077
+  },
+  {
+    "id": "c3d43",
+    "name": "weisdevice.xyz",
+    "url": "https://weisdevice.xyz/",
+    "style": "mundo 3D WebGL playable",
+    "profile": "creative-dev",
+    "notes": "Portfolio-mundo inmersivo con audio espacial e interacciones DJ; Three.js/GLSL/GSAP.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo mundo 3D WebGL playable. Perfil creative-dev. Portfolio-mundo inmersivo con audio espacial e interacciones DJ; Three.js/GLSL/GSAP.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.414,
+      "Creativos": 0.3088,
+      "Empresa": 0.1125,
+      "Otros": 0.1647
+    },
+    "category_confidence": 0.0833
+  },
+  {
+    "id": "c3d44",
+    "name": "latyr.dev",
+    "url": "https://latyr.dev/",
+    "style": "WebGL premium motion",
+    "profile": "creative-dev",
+    "notes": "Creative technologist/design engineer (Gobelins); WebGL para Cartier, Paris 2024, Active Theory.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL premium motion. Perfil creative-dev. Creative technologist/design engineer (Gobelins); WebGL para Cartier, Paris 2024, Active Theory.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3598,
+      "Creativos": 0.3345,
+      "Empresa": 0.0982,
+      "Otros": 0.2074
+    },
+    "category_confidence": 0.0707
+  },
+  {
+    "id": "c3d45",
+    "name": "jayransijn.com",
+    "url": "https://jayransijn.com/",
+    "style": "mundo 3D jugable",
+    "profile": "product-design",
+    "notes": "Design engineer; portfolio totalmente jugable (perro, bici, banda) con lighting/reflejos 3D.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo mundo 3D jugable. Perfil product-design. Design engineer; portfolio totalmente jugable (perro, bici, banda) con lighting/reflejos 3D.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3808,
+      "Creativos": 0.265,
+      "Empresa": 0.155,
+      "Otros": 0.1991
+    },
+    "category_confidence": 0.0406
+  },
+  {
+    "id": "c3d46",
+    "name": "worawork.vercel.app",
+    "url": "https://worawork.vercel.app/",
+    "style": "3D cozy exploratorio",
+    "profile": "product-design",
+    "notes": "Interior/art→dev; mundo tipo Zelda/Animal Crossing explorables; enfoque diseño espacial interactivo.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D cozy exploratorio. Perfil product-design. Interior/art→dev; mundo tipo Zelda/Animal Crossing explorables; enfoque diseño espacial interactivo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4263,
+      "Creativos": 0.233,
+      "Empresa": 0.1367,
+      "Otros": 0.204
+    },
+    "category_confidence": 0.0628
+  },
+  {
+    "id": "c3d47",
+    "name": "ameen-abdullah.dev",
+    "url": "https://ameen-abdullah.dev/",
+    "style": "WebGPU cinematic 3D",
+    "profile": "creative-dev",
+    "notes": "Sakura WebGPU/Three.js/TSL; sitios cinematográficos y case studies R3F; no blog CSS.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGPU cinematic 3D. Perfil creative-dev. Sakura WebGPU/Three.js/TSL; sitios cinematográficos y case studies R3F; no blog CSS.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.5718,
+      "Creativos": 0.2346,
+      "Empresa": 0.0634,
+      "Otros": 0.1302
+    },
+    "category_confidence": 0.2064
+  },
+  {
+    "id": "c3d48",
+    "name": "mathis-biabiany.fr",
+    "url": "https://mathis-biabiany.fr/",
+    "style": "WebGPU ribbons art",
+    "profile": "motion",
+    "notes": "Escenas art-directed en vivo (ribbons WebGPU/TSL); portfolio como pieza audiovisual interactiva.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGPU ribbons art. Perfil motion. Escenas art-directed en vivo (ribbons WebGPU/TSL); portfolio como pieza audiovisual interactiva.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4221,
+      "Creativos": 0.2415,
+      "Empresa": 0.1439,
+      "Otros": 0.1926
+    },
+    "category_confidence": 0.0598
+  },
+  {
+    "id": "c3d49",
+    "name": "samsy.ninja",
+    "url": "https://samsy.ninja/",
+    "style": "WebGPU cyberpunk FPS",
+    "profile": "creative-dev",
+    "notes": "Ciudad neon first-person WebGPU; interfaz holográfica; experiencia inmersiva pura.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGPU cyberpunk FPS. Perfil creative-dev. Ciudad neon first-person WebGPU; interfaz holográfica; experiencia inmersiva pura.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4453,
+      "Creativos": 0.2374,
+      "Empresa": 0.1182,
+      "Otros": 0.1991
+    },
+    "category_confidence": 0.08
+  },
+  {
+    "id": "c3d50",
+    "name": "giats.me",
+    "url": "https://giats.me/",
+    "style": "R3F + fluid overlay",
+    "profile": "creative-dev",
+    "notes": "Next.js/R3F/GSAP; mundo 3D + capa fluida; multi-premio Awwwards/CSSDA.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo R3F + fluid overlay. Perfil creative-dev. Next.js/R3F/GSAP; mundo 3D + capa fluida; multi-premio Awwwards/CSSDA.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4398,
+      "Creativos": 0.271,
+      "Empresa": 0.0903,
+      "Otros": 0.1988
+    },
+    "category_confidence": 0.0959
+  },
+  {
+    "id": "c3d51",
+    "name": "bilal.show",
+    "url": "https://bilal.show/",
+    "style": "scroll 3D storytelling",
+    "profile": "motion",
+    "notes": "Historia scroll-driven en entorno music-box 3D; narrativa + WebGL, no listado de posts.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo scroll 3D storytelling. Perfil motion. Historia scroll-driven en entorno music-box 3D; narrativa + WebGL, no listado de posts.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.3619,
+      "Creativos": 0.2825,
+      "Empresa": 0.1006,
+      "Otros": 0.2551
+    },
+    "category_confidence": 0.0591
+  },
+  {
+    "id": "c3d52",
+    "name": "sebastien-lempens.com",
+    "url": "https://sebastien-lempens.com/",
+    "style": "tour 3D París scroll",
+    "profile": "creative-dev",
+    "notes": "Tour scroll por París 3D (scooter/paracaídas); portfolio como viaje cinematográfico.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo tour 3D París scroll. Perfil creative-dev. Tour scroll por París 3D (scooter/paracaídas); portfolio como viaje cinematográfico.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.9775,
+      "Creativos": 0.0074,
+      "Empresa": 0.0077,
+      "Otros": 0.0074
+    },
+    "category_confidence": 0.9047
+  },
+  {
+    "id": "c3d53",
+    "name": "jordan-breton.com",
+    "url": "https://jordan-breton.com/",
+    "style": "isla flotante Three.js",
+    "profile": "creative-dev",
+    "notes": "Isla procedural con cascada/fuego/viento; navegación cámara fixed-points; FWA SOTD.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo isla flotante Three.js. Perfil creative-dev. Isla procedural con cascada/fuego/viento; navegación cámara fixed-points; FWA SOTD.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4711,
+      "Creativos": 0.2436,
+      "Empresa": 0.1056,
+      "Otros": 0.1798
+    },
+    "category_confidence": 0.1023
+  },
+  {
+    "id": "c3d54",
+    "name": "thibault-introvigne.com",
+    "url": "https://www.thibault-introvigne.com/",
+    "style": "R3F mundo coleccionable",
+    "profile": "creative-dev",
+    "notes": "Controlas astronauta en mundo colorido R3F/Three.js; collectibles = CV; vibe Witness/cyberpunk.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo R3F mundo coleccionable. Perfil creative-dev. Controlas astronauta en mundo colorido R3F/Three.js; collectibles = CV; vibe Witness/cyberpunk.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4086,
+      "Creativos": 0.2842,
+      "Empresa": 0.1277,
+      "Otros": 0.1795
+    },
+    "category_confidence": 0.0663
+  },
+  {
+    "id": "c3d55",
+    "name": "jreyes-mc-portfolio.com",
+    "url": "https://jreyes-mc-portfolio.com/",
+    "style": "3D voxel Minecraft",
+    "profile": "creative-dev",
+    "notes": "Circuito voxel-scroll inspirado en Minecraft; HM Awwwards; portfolio como nivel jugable.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo 3D voxel Minecraft. Perfil creative-dev. Circuito voxel-scroll inspirado en Minecraft; HM Awwwards; portfolio como nivel jugable.",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.3069,
+      "Creativos": 0.3099,
+      "Empresa": 0.1396,
+      "Otros": 0.2435
+    },
+    "category_confidence": 0.0302
+  },
+  {
+    "id": "c3d56",
+    "name": "simone-dev.com",
+    "url": "https://simone-dev.com/",
+    "style": "open-world WebGL/VR",
+    "profile": "creative-dev",
+    "notes": "Portfolio 2025 con modo estándar, open world y VR; Three.js inmersivo.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo open-world WebGL/VR. Perfil creative-dev. Portfolio 2025 con modo estándar, open world y VR; Three.js inmersivo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.5305,
+      "Creativos": 0.2633,
+      "Empresa": 0.043,
+      "Otros": 0.1632
+    },
+    "category_confidence": 0.1929
+  },
+  {
+    "id": "c3d57",
+    "name": "rblaylock.dev",
+    "url": "https://rblaylock.dev/",
+    "style": "R3F walkable zones",
+    "profile": "creative-dev",
+    "notes": "The Forge: escena R3F caminable (WASD) con zonas, shaders GLSL y HUD; prueba de skill 3D.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo R3F walkable zones. Perfil creative-dev. The Forge: escena R3F caminable (WASD) con zonas, shaders GLSL y HUD; prueba de skill 3D.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.8843,
+      "Creativos": 0.0407,
+      "Empresa": 0.0141,
+      "Otros": 0.0609
+    },
+    "category_confidence": 0.6612
+  },
+  {
+    "id": "c3d58",
+    "name": "eduardstroescu.com",
+    "url": "https://eduardstroescu.com/",
+    "style": "R3F portales surreal",
+    "profile": "creative-dev",
+    "notes": "Escenas surrealistas con portales, audio espacial y postprocessing; R3F/drei.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo R3F portales surreal. Perfil creative-dev. Escenas surrealistas con portales, audio espacial y postprocessing; R3F/drei.",
+    "category": "Creativos",
+    "category_probs": {
+      "Desarrollador": 0.4274,
+      "Creativos": 0.4852,
+      "Empresa": 0.049,
+      "Otros": 0.0384
+    },
+    "category_confidence": 0.288
+  },
+  {
+    "id": "c3d59",
+    "name": "valentingassend.com",
+    "url": "https://valentingassend.com/",
+    "style": "WebGL award dark",
+    "profile": "creative-dev",
+    "notes": "Freelance WebGL/Three.js/GSAP; perfil de creative developer con trabajo premiado.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL award dark. Perfil creative-dev. Freelance WebGL/Three.js/GSAP; perfil de creative developer con trabajo premiado.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4253,
+      "Creativos": 0.264,
+      "Empresa": 0.1004,
+      "Otros": 0.2103
+    },
+    "category_confidence": 0.0811
+  },
+  {
+    "id": "c3d60",
+    "name": "julienrenau.com",
+    "url": "https://julienrenau.com/",
+    "style": "WebGL case-study heavy",
+    "profile": "creative-dev",
+    "notes": "Senior CT; case studies LVMH/Nike/Gucci-level en Three.js/WebGL; foco inmersivo.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL case-study heavy. Perfil creative-dev. Senior CT; case studies LVMH/Nike/Gucci-level en Three.js/WebGL; foco inmersivo.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.4296,
+      "Creativos": 0.2514,
+      "Empresa": 0.123,
+      "Otros": 0.196
+    },
+    "category_confidence": 0.0714
+  },
+  {
+    "id": "c3d61",
+    "name": "robertborghesi.is",
+    "url": "https://robertborghesi.is/",
+    "style": "WebGL immersive gen",
+    "profile": "creative-dev",
+    "notes": "Especialista WebGL/R3F (Gucci, Adidas, Longines); labs inmersivos y workshops.",
+    "source": "Creativos 3D UXUI",
+    "context": "Estilo WebGL immersive gen. Perfil creative-dev. Especialista WebGL/R3F (Gucci, Adidas, Longines); labs inmersivos y workshops.",
+    "category": "Desarrollador",
+    "category_probs": {
+      "Desarrollador": 0.9175,
+      "Creativos": 0.0437,
+      "Empresa": 0.0165,
+      "Otros": 0.0223
+    },
+    "category_confidence": 0.7343
+  }
+]
