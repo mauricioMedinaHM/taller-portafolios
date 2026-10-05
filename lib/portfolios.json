@@ -527,23 +527,6 @@
     "category_confidence": 0.0534
   },
   {
-    "id": "jhey8",
-    "name": "whitep4nth3r.com",
-    "url": "https://whitep4nth3r.com/",
-    "style": "dark community",
-    "source": "Estilo jhey",
-    "notes": "Oscuro, simple, voz fuerte + proyectos/educación",
-    "context": "Estilo dark community. Oscuro, simple, voz fuerte + proyectos/educación",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.3224,
-      "Creativos": 0.2902,
-      "Empresa": 0.1722,
-      "Otros": 0.2152
-    },
-    "category_confidence": 0.0208
-  },
-  {
     "id": "jhey9",
     "name": "stefanjudis.com",
     "url": "https://stefanjudis.com/",
@@ -561,23 +544,6 @@
     "category_confidence": 0.0716
   },
   {
-    "id": "jhey10",
-    "name": "una.im",
-    "url": "https://una.im/",
-    "style": "CSS color craft",
-    "source": "Estilo jhey",
-    "notes": "Design engineer CSS (Una); demos y writing",
-    "context": "Estilo CSS color craft. Design engineer CSS (Una); demos y writing",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.6771,
-      "Creativos": 0.2097,
-      "Empresa": 0.0292,
-      "Otros": 0.084
-    },
-    "category_confidence": 0.3487
-  },
-  {
     "id": "jhey11",
     "name": "paco.me",
     "url": "https://paco.me/",
@@ -593,23 +559,6 @@
       "Otros": 0.2275
     },
     "category_confidence": 0.0588
-  },
-  {
-    "id": "jhey12",
-    "name": "sammii.dev",
-    "url": "https://sammii.dev/",
-    "style": "dark experiments",
-    "source": "Estilo jhey",
-    "notes": "Design engineer: labs, demos motion, estética luminous dark",
-    "context": "Estilo dark experiments. Design engineer: labs, demos motion, estética luminous dark",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.404,
-      "Creativos": 0.2733,
-      "Empresa": 0.1115,
-      "Otros": 0.2113
-    },
-    "category_confidence": 0.0668
   },
   {
     "id": "jhey13",
@@ -748,23 +697,6 @@
     "category_confidence": 0.0581
   },
   {
-    "id": "jhey21",
-    "name": "brianlovin.com",
-    "url": "https://brianlovin.com/",
-    "style": "dark clean",
-    "source": "Estilo jhey",
-    "notes": "Oscuro limpio product/design, mucho contenido",
-    "context": "Estilo dark clean. Oscuro limpio product/design, mucho contenido",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.3565,
-      "Creativos": 0.2718,
-      "Empresa": 0.1688,
-      "Otros": 0.2029
-    },
-    "category_confidence": 0.0293
-  },
-  {
     "id": "jhey22",
     "name": "ryanmulligan.dev",
     "url": "https://www.ryanmulligan.dev/",
@@ -797,23 +729,6 @@
       "Otros": 0.0681
     },
     "category_confidence": 0.3134
-  },
-  {
-    "id": "jhey24",
-    "name": "surma.dev",
-    "url": "https://surma.dev/",
-    "style": "dark web platform",
-    "source": "Estilo jhey",
-    "notes": "Oscuro, essays técnicos web platform",
-    "context": "Estilo dark web platform. Oscuro, essays técnicos web platform",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.3687,
-      "Creativos": 0.241,
-      "Empresa": 0.1514,
-      "Otros": 0.2389
-    },
-    "category_confidence": 0.0343
   },
   {
     "id": "jhey25",
@@ -918,23 +833,6 @@
     "category_confidence": 0.3172
   },
   {
-    "id": "jhey31",
-    "name": "alexcarpenter.me",
-    "url": "https://alexcarpenter.me/",
-    "style": "Oscuro UI-eng",
-    "source": "Estilo jhey",
-    "notes": "Staff UI engineer; interfaces composables",
-    "context": "Estilo Oscuro UI-eng. Staff UI engineer; interfaces composables",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.4634,
-      "Creativos": 0.2319,
-      "Empresa": 0.1251,
-      "Otros": 0.1796
-    },
-    "category_confidence": 0.0884
-  },
-  {
     "id": "jhey32",
     "name": "craftz.dog",
     "url": "https://craftz.dog/",
@@ -950,23 +848,6 @@
       "Otros": 0.2263
     },
     "category_confidence": 0.0475
-  },
-  {
-    "id": "jhey33",
-    "name": "manuarora.in",
-    "url": "https://manuarora.in/",
-    "style": "Oscuro modern-UI",
-    "source": "Estilo jhey",
-    "notes": "Portfolio dark con demos UI",
-    "context": "Estilo Oscuro modern-UI. Portfolio dark con demos UI",
-    "category": "Desarrollador",
-    "category_probs": {
-      "Desarrollador": 0.3993,
-      "Creativos": 0.2379,
-      "Empresa": 0.1143,
-      "Otros": 0.2484
-    },
-    "category_confidence": 0.0607
   },
   {
     "id": "jhey34",
@@ -1594,7 +1475,7 @@
   {
     "id": "starter1",
     "name": "Brittany Chiang v4",
-    "url": "https://github.com/bchiang7/v4",
+    "url": "https://v4.brittanychiang.com/",
     "source": "Starter pack",
     "level": "intermedio",
     "notes": "Fork clásico de portfolio (Gatsby); miles de clones",
@@ -1607,12 +1488,13 @@
       "Empresa": 0.1008,
       "Otros": 0.3433
     },
-    "category_confidence": 0.0722
+    "category_confidence": 0.0722,
+    "repo": "https://github.com/bchiang7/v4"
   },
   {
     "id": "starter2",
     "name": "Henry Heffernan 3D",
-    "url": "https://github.com/henryjeff/portfolio-website",
+    "url": "https://henryheffernan.com/",
     "source": "Starter pack",
     "level": "avanzado",
     "notes": "Portfolio 3D completo Three + GSAP + React",
@@ -1625,12 +1507,13 @@
       "Empresa": 0.0955,
       "Otros": 0.2827
     },
-    "category_confidence": 0.0736
+    "category_confidence": 0.0736,
+    "repo": "https://github.com/henryjeff/portfolio-website"
   },
   {
     "id": "starter3",
     "name": "Bruno Simon folio-2025",
-    "url": "https://github.com/brunosimon/folio-2025",
+    "url": "https://bruno-simon.com/",
     "source": "Starter pack",
     "level": "avanzado",
     "notes": "Vite + Three + Rapier + GSAP creativo",
@@ -1643,12 +1526,13 @@
       "Empresa": 0.1074,
       "Otros": 0.2954
     },
-    "category_confidence": 0.049
+    "category_confidence": 0.049,
+    "repo": "https://github.com/brunosimon/folio-2025"
   },
   {
     "id": "starter4",
     "name": "Lee Robinson MDX blog",
-    "url": "https://github.com/leerob/next-mdx-blog",
+    "url": "https://next-blog-mdx.vercel.app/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Starter Next + MDX + Tailwind para contenido",
@@ -1661,12 +1545,13 @@
       "Empresa": 0.1231,
       "Otros": 0.3303
     },
-    "category_confidence": 0.0507
+    "category_confidence": 0.0507,
+    "repo": "https://github.com/leerob/next-mdx-blog"
   },
   {
     "id": "starter5",
     "name": "Jahir.dev (versión OS)",
-    "url": "https://github.com/jahirfiquitiva/jahir.dev",
+    "url": "https://jahir.dev/",
     "source": "Starter pack",
     "level": "intermedio",
     "notes": "Portfolio/blog Next + Tailwind + MDX documentado",
@@ -1679,12 +1564,13 @@
       "Empresa": 0.0022,
       "Otros": 0.2276
     },
-    "category_confidence": 0.5568
+    "category_confidence": 0.5568,
+    "repo": "https://github.com/jahirfiquitiva/jahir.dev"
   },
   {
     "id": "starter6",
     "name": "Astro Paper",
-    "url": "https://github.com/satnaing/astro-paper",
+    "url": "https://astro-paper.pages.dev/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Tema Astro + Tailwind minimal estático",
@@ -1697,12 +1583,13 @@
       "Empresa": 0.08,
       "Otros": 0.4053
     },
-    "category_confidence": 0.0941
+    "category_confidence": 0.0941,
+    "repo": "https://github.com/satnaing/astro-paper"
   },
   {
     "id": "starter7",
     "name": "Astro Cactus",
-    "url": "https://github.com/chrismwilliams/astro-theme-cactus",
+    "url": "https://astro-cactus.chriswilliams.dev/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Astro + MDX + dark mode + search",
@@ -1715,12 +1602,13 @@
       "Empresa": 0.0566,
       "Otros": 0.3981
     },
-    "category_confidence": 0.133
+    "category_confidence": 0.133,
+    "repo": "https://github.com/chrismwilliams/astro-theme-cactus"
   },
   {
     "id": "starter8",
     "name": "Astro portfolio example",
-    "url": "https://github.com/withastro/astro/tree/main/examples/portfolio",
+    "url": "https://astro-portfolio-demo.statichost.eu/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Ejemplo oficial Astro limpio",
@@ -1733,7 +1621,8 @@
       "Empresa": 0.1133,
       "Otros": 0.3523
     },
-    "category_confidence": 0.0577
+    "category_confidence": 0.0577,
+    "repo": "https://github.com/withastro/astro/tree/main/examples/portfolio"
   },
   {
     "id": "starter9",
@@ -1792,7 +1681,7 @@
   {
     "id": "starter12",
     "name": "Minimal CV (Next + shadcn)",
-    "url": "https://github.com/BartoszJarocki/cv",
+    "url": "https://cv.jarocki.me/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "CV/portfolio minimal print-friendly",
@@ -1805,12 +1694,13 @@
       "Empresa": 0.0981,
       "Otros": 0.3752
     },
-    "category_confidence": 0.0723
+    "category_confidence": 0.0723,
+    "repo": "https://github.com/BartoszJarocki/cv"
   },
   {
     "id": "starter13",
     "name": "React Three Fiber",
-    "url": "https://github.com/pmndrs/react-three-fiber",
+    "url": "https://r3f.docs.pmnd.rs/",
     "source": "Starter pack",
     "level": "avanzado",
     "notes": "Three.js en React para escenas 3D",
@@ -1823,7 +1713,8 @@
       "Empresa": 0.0968,
       "Otros": 0.2695
     },
-    "category_confidence": 0.0965
+    "category_confidence": 0.0965,
+    "repo": "https://github.com/pmndrs/react-three-fiber"
   },
   {
     "id": "starter14",
@@ -1864,7 +1755,7 @@
   {
     "id": "starter16",
     "name": "daisyUI",
-    "url": "https://github.com/saadeghi/daisyui",
+    "url": "https://daisyui.com/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Componentes Tailwind free",
@@ -1877,12 +1768,13 @@
       "Empresa": 0.0769,
       "Otros": 0.3332
     },
-    "category_confidence": 0.0942
+    "category_confidence": 0.0942,
+    "repo": "https://github.com/saadeghi/daisyui"
   },
   {
     "id": "starter17",
     "name": "Tailwind Next.js starter blog",
-    "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/",
     "source": "Starter pack",
     "level": "intermedio",
     "notes": "Blog/portfolio Next + Tailwind + MDX",
@@ -1895,12 +1787,13 @@
       "Empresa": 0.0961,
       "Otros": 0.3402
     },
-    "category_confidence": 0.0826
+    "category_confidence": 0.0826,
+    "repo": "https://github.com/timlrx/tailwind-nextjs-starter-blog"
   },
   {
     "id": "starter18",
     "name": "LATAM Zuricata (Astro)",
-    "url": "https://github.com/cardugarte/zuricata-dev",
+    "url": "https://zuricata.dev/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Portfolio Astro real LATAM para fork",
@@ -1913,12 +1806,13 @@
       "Empresa": 0.0911,
       "Otros": 0.3705
     },
-    "category_confidence": 0.0894
+    "category_confidence": 0.0894,
+    "repo": "https://github.com/cardugarte/zuricata-dev"
   },
   {
     "id": "starter19",
     "name": "LATAM Agustín Garate (Next)",
-    "url": "https://github.com/agustingarate/portfolio",
+    "url": "https://agustingarate.com/",
     "source": "Starter pack",
     "level": "intermedio",
     "notes": "Next + Tailwind + Motion + Three + Sanity",
@@ -1931,12 +1825,13 @@
       "Empresa": 0.1371,
       "Otros": 0.2721
     },
-    "category_confidence": 0.0347
+    "category_confidence": 0.0347,
+    "repo": "https://github.com/agustingarate/portfolio"
   },
   {
     "id": "starter20",
     "name": "LATAM San Ruiz (Next)",
-    "url": "https://github.com/sanruiz/SR-portfolio",
+    "url": "https://sanruiz.co/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Next + Tailwind estilo shadcn",
@@ -1949,12 +1844,13 @@
       "Empresa": 0.1099,
       "Otros": 0.3104
     },
-    "category_confidence": 0.0492
+    "category_confidence": 0.0492,
+    "repo": "https://github.com/sanruiz/SR-portfolio"
   },
   {
     "id": "starter21",
     "name": "Juarex9 Portfolio (Vite)",
-    "url": "https://github.com/Juarex9/Portfolio",
+    "url": "https://www.agustinjz.dev/",
     "source": "Starter pack",
     "level": "principiante",
     "notes": "Vite + React + TW + Framer (agustinjz.dev)",
@@ -1967,7 +1863,8 @@
       "Empresa": 0.0887,
       "Otros": 0.3336
     },
-    "category_confidence": 0.0963
+    "category_confidence": 0.0963,
+    "repo": "https://github.com/Juarex9/Portfolio"
   },
   {
     "id": "c3d1",

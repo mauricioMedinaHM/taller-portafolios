@@ -97,9 +97,13 @@ export function Visor({
   }, [enVista]);
 
   const indice = item ? siblings.findIndex((s) => s.id === item.id) : -1;
-  const anterior = indice > 0 ? siblings[indice - 1] : null;
-  const siguiente =
-    indice >= 0 && indice < siblings.length - 1 ? siblings[indice + 1] : null;
+  const puedePasar = indice >= 0 && siblings.length > 1;
+  const anterior = puedePasar
+    ? siblings[(indice - 1 + siblings.length) % siblings.length]
+    : null;
+  const siguiente = puedePasar
+    ? siblings[(indice + 1) % siblings.length]
+    : null;
 
   const onKeyDown = useCallback(
     (event: ReactKeyboardEvent<HTMLDialogElement>) => {
@@ -187,6 +191,16 @@ export function Visor({
 
             {/* ─────────── El sitio embebido ─────────── */}
             <div className="relative min-h-0 flex-1 bg-[var(--color-board-deep)]">
+              <FlechaVisor
+                lado="atras"
+                destino={anterior}
+                onNavigate={onNavigate}
+              />
+              <FlechaVisor
+                lado="adelante"
+                destino={siguiente}
+                onNavigate={onNavigate}
+              />
               {!cargado && !bloqueado && (
                 <div
                   className="absolute inset-x-0 top-0 z-10 h-[2px] overflow-hidden"
@@ -250,6 +264,54 @@ export function Visor({
         )}
       </dialog>
     </>
+  );
+}
+
+function FlechaVisor({
+  lado,
+  destino,
+  onNavigate,
+}: {
+  lado: "atras" | "adelante";
+  destino: Portfolio | null;
+  onNavigate: (item: Portfolio) => void;
+}) {
+  if (!destino) return null;
+  const atras = lado === "atras";
+  const host = hostLabel(destino.url);
+
+  return (
+    <button
+      type="button"
+      onClick={() => onNavigate(destino)}
+      aria-label={
+        atras
+          ? `Ver el portafolio anterior, ${host}`
+          : `Ver el siguiente portafolio, ${host}`
+      }
+      className={`absolute top-1/2 z-30 flex h-[4.5rem] w-11 -translate-y-1/2 cursor-pointer items-center justify-center bg-[var(--color-stock)] text-[var(--color-ink)] shadow-[var(--shadow-chip)] outline-offset-2 hover:bg-[var(--color-rivet)] hover:text-[var(--color-board-deep)] ${
+        atras ? "left-0 rounded-r-[var(--radius-chip)]" : "right-0 rounded-l-[var(--radius-chip)]"
+      }`}
+    >
+      <svg
+        viewBox="0 0 16 16"
+        width="18"
+        height="18"
+        aria-hidden="true"
+        focusable="false"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth={1.75}
+        strokeLinecap="square"
+        strokeLinejoin="miter"
+      >
+        {atras ? (
+          <path d="M10.5 3 L5.5 8 L10.5 13" />
+        ) : (
+          <path d="M5.5 3 L10.5 8 L5.5 13" />
+        )}
+      </svg>
+    </button>
   );
 }
 

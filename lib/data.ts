@@ -61,10 +61,20 @@ function mergeStyles(a?: string | null, b?: string | null): string | null {
   return joined || null;
 }
 
+function itemKey(item: Portfolio): string {
+  /* El starter pack muestra una plantilla para clonar. Aunque el demo viva
+     en la misma URL que otra ficha del muestrario, no se funden: una es el
+     sitio publicado y la otra es el punto de partida. */
+  if ((item.source ?? "").toLowerCase().includes("starter")) {
+    return `starter:${item.id}`;
+  }
+  return urlKey(item.url);
+}
+
 function dedupe(items: Portfolio[]): Portfolio[] {
   const byUrl = new Map<string, Portfolio>();
   for (const item of items) {
-    const key = urlKey(item.url);
+    const key = itemKey(item);
     const seen = byUrl.get(key);
     if (!seen) {
       byUrl.set(key, { ...item, sources: [item.source] });

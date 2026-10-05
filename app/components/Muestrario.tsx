@@ -1,18 +1,15 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { allPortfolios, filterPortfolios, type Portfolio } from "@/lib/data";
+import { allPortfolios, type Portfolio } from "@/lib/data";
 import {
   chipCode,
   deckById,
   deckFor,
-  decks,
   groupByDeck,
   type Deck,
-  type DeckId,
 } from "@/lib/decks";
 import { Chip } from "./Chip";
-import { DeckRail } from "./DeckRail";
 import { Visor } from "./Visor";
 
 /** El único ícono del muestrario: una marca de verificación de trazo recto. */
@@ -40,36 +37,11 @@ function onInkColor(onInk: "stock" | "board"): string {
 }
 
 export function Muestrario() {
-  const [query, setQuery] = useState("");
-  const [activeDeck, setActiveDeck] = useState<DeckId | null>(null);
   const [open, setOpen] = useState<Portfolio | null>(null);
 
-  /** Resultado de la búsqueda de texto, antes del filtro por mazo. */
-  const searched = useMemo(
-    () => filterPortfolios(allPortfolios, query),
-    [query]
-  );
-
-  /** Cuentas resultantes de la búsqueda actual, no las totales. */
-  const counts = useMemo(() => {
-    const base = Object.fromEntries(decks.map((d) => [d.id, 0])) as Record<
-      DeckId,
-      number
-    >;
-    for (const item of searched) base[deckFor(item)] += 1;
-    return base;
-  }, [searched]);
-
-  const filtered = useMemo(
-    () =>
-      activeDeck ? searched.filter((item) => deckFor(item) === activeDeck) : searched,
-    [searched, activeDeck]
-  );
-
-  /** Los grupos visibles, en el orden en que se ven en pantalla. */
   const groups = useMemo(
-    () => groupByDeck(filtered).filter((g) => g.items.length > 0),
-    [filtered]
+    () => groupByDeck(allPortfolios).filter((g) => g.items.length > 0),
+    []
   );
 
   /** Hermanos del item abierto: su mazo, ya filtrado, en orden de pantalla. */
@@ -81,62 +53,16 @@ export function Muestrario() {
 
   const openDeck: Deck | null = open ? deckById[deckFor(open)] : null;
 
-  function limpiar() {
-    setQuery("");
-    setActiveDeck(null);
-  }
-
   return (
     <section
       id="muestrario"
-      className="scroll-mt-40"
+      className="scroll-mt-8"
       style={{ background: "var(--color-board)" }}
     >
-      {/* Barra pegada: la fila de mazos. */}
-      <div
-        className="sticky top-0 z-30 px-4 pt-5 pb-3 sm:px-6"
-        style={{
-          background: "var(--color-board)",
-          borderBottom: "1px solid var(--color-board-line)",
-        }}
-      >
-        <div className="mx-auto w-full max-w-[100rem]">
-          <DeckRail counts={counts} activeDeck={activeDeck} onPick={setActiveDeck} />
-        </div>
-      </div>
-
-      {/* Estado vacío: una ventana punzada sin fichas. */}
-      {groups.length === 0 && (
-        <div className="mx-auto w-full max-w-[100rem] px-4 py-20 sm:px-6">
-          <div className="punch max-w-2xl px-6 py-10">
-            <p className="t-deck" style={{ color: "var(--color-ink)" }}>
-              No hay ninguna ficha para{" "}
-              <span className="t-code break-all">“{query.trim() || "este filtro"}”</span>
-            </p>
-            <p className="t-read mt-4" style={{ color: "var(--color-ink)" }}>
-              Probá con una palabra más corta: el nombre del sitio, un estilo (oscuro,
-              editorial, terminal) o una tecnología.
-            </p>
-            <button
-              type="button"
-              onClick={limpiar}
-              className="t-label mt-6 inline-block px-4 py-2.5 outline-offset-2"
-              style={{
-                background: "var(--color-board)",
-                color: "var(--color-stock)",
-                boxShadow: "var(--shadow-chip)",
-              }}
-            >
-              Limpiar la búsqueda y ver todo
-            </button>
-          </div>
-        </div>
-      )}
-
       {groups.map(({ deck, items }) => {
         const fg = onInkColor(deck.onInk);
         return (
-          <section key={deck.id} id={deck.id} className="scroll-mt-40 pb-16">
+          <section key={deck.id} id={deck.id} className="scroll-mt-8 pb-16">
             {/* Banda de mazo: la tinta ocupa región. */}
             <div style={{ background: deck.ink, color: fg }}>
               <div className="mx-auto w-full max-w-[100rem] px-4 py-10 sm:px-6 sm:py-14">
